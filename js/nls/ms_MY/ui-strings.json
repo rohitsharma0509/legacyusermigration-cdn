@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Selamat datang ke akaun percuma anda",
+  "purchaseModalHeader" : "Maklumat penting tentang langganan Adobe Sign anda",
+  "purchaseMsg" : "Sebagai sebahagian daripada usaha berterusan untuk mengoptimumkan sistem kami, Adobe tidak akan menawarkan pelan langganan semasa anda lagi. Untuk terus menikmati manfaat berbayar bagi Adobe Sign, sila langgan pelan baru Adobe Sign untuk Perniagaan Kecil menggunakan alamat e-mel anda yang sama.",
+  "regularPriceMsg" : "Beli langganan tahunan pada {0}/lesen/tahun, {1} †",
+  "promotionalPriceMsg" : "Nikmati harga promosi bagi tahun pertama pada {0}/lesen/tahun, {1} †.",
+  "buyNowBtnText" : "Beli Sekarang",
+  "faqContent" : "Sila baca <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Soalan Lazim</a> kami untuk mendapatkan maklumat lanjut.",
+  "migrationActionMsg" : "Jika anda tidak mahu melanggan tetapi mahu mengekalkan akses kepada fail anda yang sedia ada, langganan pasukan anda akan diturun taraf kepada langganan percuma. Langganan percuma termasuk keupayaan untuk menghantar dua dokumen setiap 30 hari (secara berturutan) tetapi tidak lagi akan membenarkan penggunaan ciri pentadbiran pasukan. Untuk menggunakan akaun percuma, pentadbir dan pengguna mestilah <a href=\"{0}\">log masuk dengan ID Adobe sedia ada atau cipta ID Adobe</a> menggunakan alamat e-mel yang sama dengan akaun Adobe Sign anda.",
+  "billingMsg1" : "† Komitmen tahunan diperlukan.",
+  "billingMsg2" : "† Harga senarai standard ialah {0}/lesen/tahun, {1}.",
+  "billingMsg3" : "Harga promosi hanya sah untuk tahun pertama. Mulai Tahun 2, anda akan dikenakan bayaran pada harga senarai semasa. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Lihat Terma dan Syarat</a>",
+
+  "downloadCsvModalHeader" : "Muat turun senarai pengguna akaun",
+  "downloadCsvMsg1" : "Untuk memastikan pasukan anda tidak kehilangan akses kepada Adobe Sign, anda perlu menjemput semula pengguna menggunakan Konsol Pentadbir pengurusan pengguna yang baru. Untuk membantu anda meringkaskan aktiviti ini, anda boleh mengeksport senarai pengguna semasa anda dalam format CSV yang boleh diimport sebelum mendaftar keluar.",
+  "downloadCsvMsg2" : "Bilangan lesen semasa : ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Muat turun dan Teruskan</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Teruskan tanpa Muat turun</a>",
+
+  "adobeIdModalHeader" : "Maklumat penting tentang langganan Adobe Sign anda",
+  "createAdobeIdMsg" : "Perubahan pada langganan Adobe Sign yang akan datang mungkin menjejaskan langganan anda. Untuk memastikan peralihan ini lancar, sila log masuk dengan ID Adobe anda yang sedia ada atau cipta ID Adobe menggunakan alamat e-mel yang sama dengan akaun Adobe Sign semasa anda.",
+  "contactAdminMsg" : "Jika anda mempunyai pertanyaan, sila hubungi pentadbir akaun anda.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Mulakan</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Pelan Adobe Sign untuk Pasukan anda telah tamat tempoh dan organisasi anda belum membaharui langganan. Untuk mengekalkan akses kepada fail sedia ada, anda boleh menggunakan akaun Adobe Sign percuma, yang membolehkan anda menghantar dua dokumen untuk ditandatangani secara percuma setiap 30 hari secara berturutan. Untuk menggunakan akaun percuma anda, sila log masuk dengan ID Adobe sedia ada atau cipta ID Adobe menggunakan alamat e-mel yang sama dengan akaun Adobe Sign anda.",
+  "includingTax" : "termasuk cukai",
+  "excludingTax" : "tidak termasuk cukai"
+}

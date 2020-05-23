@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Chào mừng bạn đến với tài khoản miễn phí của mình",
+  "purchaseModalHeader" : "Thông tin quan trọng về gói đăng ký Adobe Sign của bạn",
+  "purchaseMsg" : "Nằm trong nỗ lực không ngừng tối ưu hóa hệ thống của chúng tôi, Adobe sẽ không còn cung cấp gói đăng ký hiện tại của bạn nữa. Để tiếp tục trải nghiệm các tính năng có phí của Adobe Sign, vui lòng đăng ký gói Adobe Sign for Small Business mới bằng cách sử dụng cùng địa chỉ email của bạn.",
+  "regularPriceMsg" : "Mua gói đăng ký hàng năm với mức giá {0}/giấy phép/năm, {1} †",
+  "promotionalPriceMsg" : "Tận hưởng giá khuyến mại trong năm đầu tiên {0}/giấy phép/năm, {1} †.",
+  "buyNowBtnText" : "Mua ngay bây giờ",
+  "faqContent" : "Vui lòng đọc <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Các câu hỏi thường gặp</a> của chúng tôi để biết thêm thông tin.",
+  "migrationActionMsg" : "Nếu bạn quyết định không đăng ký nhưng muốn giữ quyền truy cập vào các tệp hiện có của mình, gói đăng ký nhóm của bạn sẽ bị hạ cấp xuống gói đăng ký miễn phí. Gói đăng ký miễn phí bao gồm khả năng gửi hai tài liệu 30 ngày một lần (theo hình thức tự gia hạn) nhưng sẽ không còn cho phép sử dụng các tính năng quản trị nhóm. Để sử dụng tài khoản miễn phí, quản trị viên và người dùng phải <a href=\"{0}\">đăng nhập bằng Adobe ID hiện tại hoặc tạo Adobe ID</a> bằng địa chỉ email dùng cho tài khoản Adobe Sign hiện đang dùng.",
+  "billingMsg1" : "† Yêu cầu cam kết hàng năm.",
+  "billingMsg2" : "† Giá niêm yết tiêu chuẩn hiện tại là {0}/giấy phép/năm, {1}.",
+  "billingMsg3" : "Giá khuyến mại chỉ có hiệu lực trong năm đầu tiên. Bắt đầu từ năm thứ 2, bạn sẽ được tính phí theo giá niêm yết tại thời điểm đó. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Xem Điều khoản và Điều kiện</a>",
+
+  "downloadCsvModalHeader" : "Tải xuống danh sách người dùng tài khoản",
+  "downloadCsvMsg1" : "Để đảm bảo nhóm của bạn không mất quyền truy cập vào Adobe Sign, bạn sẽ cần mời lại người dùng bằng Bảng điều khiển quản trị người dùng mới. Để giúp đơn giản hóa thao tác này, bạn có thể xuất danh sách người dùng hiện tại ra định dạng CSV có thể nhập trước khi tiến hành thanh toán.",
+  "downloadCsvMsg2" : "Số giấy phép hiện tại: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Tải xuống và tiếp tục</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Tiếp tục mà không tải xuống</a>",
+
+  "adobeIdModalHeader" : "Thông tin quan trọng về gói đăng ký Adobe Sign của bạn",
+  "createAdobeIdMsg" : "Sắp tới có sự thay đổi đối với gói đăng ký Adobe Sign có thể ảnh hưởng đến bạn. Để đảm bảo quá trình chuyển đổi này diễn ra suôn sẻ, vui lòng đăng nhập bằng Adobe ID hiện tại của bạn hoặc tạo Adobe ID bằng địa chỉ email dùng cho tài khoản Adobe Sign mà bạn hiện đang dùng.",
+  "contactAdminMsg" : "Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với quản trị viên tài khoản của bạn.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Bắt đầu</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Gói Adobe Sign for Teams của bạn đã hết hạn và tổ chức của bạn chưa gia hạn gói đăng ký. Để duy trì quyền truy cập vào các tệp hiện có của mình, bạn có thể sử dụng tài khoản Adobe Sign miễn phí, tài khoản này cho phép bạn gửi hai tài liệu để lấy chữ ký miễn phí bằng địa chỉ email dùng cho tài khoản Adobe Sign mà bạn hiện đang dùng. Để sử dụng tài khoản miễn phí, vui lòng đăng nhập bằng Adobe ID hiện tại của bạn hoặc tạo Adobe ID bằng địa chỉ email dùng cho tài khoản Adobe Sign mà bạn hiện đang dùng.",
+  "includingTax" : "bao gồm cả thuế",
+  "excludingTax" : "không bao gồm thuế"
+}

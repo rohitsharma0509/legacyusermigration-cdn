@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Benvingut al vostre compte gratuït",
+  "purchaseModalHeader" : "Informació important sobre la vostra subscripció a l'Adobe Sign",
+  "purchaseMsg" : "Com a part del nostre esforç constant per optimitzar els nostres sistemes, Adobe ja no oferirà el vostre pla de subscripció actual. Per a continuar gaudint dels avantatges de la versió de pagament de l’Adobe Sign, subscriviu-vos al nou pla Adobe Sign per a petites empreses, amb la mateixa adreça de correu electrònic.",
+  "regularPriceMsg" : "Adquiriu una subscripció anual a {0}/llicència/any, {1} †",
+  "promotionalPriceMsg" : "Gaudiu d’un preu promocional durant el primer any a {0}/llicència/any, {1} †.",
+  "buyNowBtnText" : "Compra'l ara",
+  "faqContent" : "Llegiu <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Preguntes freqüents</a> per a obtenir informació addicional.",
+  "migrationActionMsg" : "Si opteu per no subscriure-vos-hi, però voleu mantenir l'accés als vostres fitxers, la subscripció d'equip canviarà a una subscripció gratuïta. La subscripció gratuïta permet enviar dos documents cada 30 dies de manera contínua, però no permet fer servir les funcions d'administració d'equips. Per utilitzar un compte gratuït, els administradors i els usuaris han d’<a href=\"{0}\">iniciar la sessió amb un Adobe ID existent o crear-ne un</a> amb la mateixa adreça de correu electrònic del compte d'Adobe Sign actual.",
+  "billingMsg1" : "† Es requereix un compromís anual.",
+  "billingMsg2" : "† El preu llistat estàndard és actualment {0}/llicència/any, {1}.",
+  "billingMsg3" : "La tarifa promocional és només vàlida el primer any. A partir del segon any, se us cobrarà el preu llistat vigent. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Vegeu termes i condicions</a>",
+
+  "downloadCsvModalHeader" : "Descarregueu la llista d’usuaris del compte",
+  "downloadCsvMsg1" : "Per assegurar-vos que el vostre equip no perd l'accés a l'Adobe Sign, haureu de tornar a convidar els usuaris mitjançant la nova plataforma d'administració d'usuaris Admin Console. Per fer-ho més fàcil, podeu exportar la llista d'usuaris actual en un format CSV vàlid abans de finalitzar.",
+  "downloadCsvMsg2" : "Nombre de llicències actual: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Descarregar i continuar</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Continuar sense descarregar</a>",
+
+  "adobeIdModalHeader" : "Informació important sobre la vostra subscripció a l'Adobe Sign",
+  "createAdobeIdMsg" : "Pròximament, un canvi en la subscripció a l’Adobe Sign us podria afectar. Per a assegurar-vos que tot anirà bé, inicieu sessió amb el vostre Adobe ID o en creeu un amb la mateixa adreça de correu electrònic del vostre compte actual d’Adobe Sign.",
+  "contactAdminMsg" : "Si teniu cap pregunta, contacteu amb l’administrador de compte.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Començar</a>",
+  "createAdobeIdMsgAfterDowngraded" : "El pla d'Adobe Sign per a equips ha caducat i la vostra organització no ha renovat la subscripció. Per poder accedir als vostres arxius, feu servir un compte gratuït d'Adobe Sign, amb el qual podeu enviar dos documents perquè siguin signats cada 30 dies de manera gratuïta. Per utilitzar aquest compte, inicieu sessió amb el vostre Adobe ID o en creeu un amb la mateixa adreça de correu electrònic del vostre compte actual d'Adobe Sign.",
+  "includingTax" : "Impostos inclosos",
+  "excludingTax" : "impostos no inclosos"
+}

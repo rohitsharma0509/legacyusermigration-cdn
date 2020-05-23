@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Le damos la bienvenida a su cuenta gratuita",
+  "purchaseModalHeader" : "Información importante sobre su suscripción de Adobe Sign",
+  "purchaseMsg" : "Como parte de un proceso continuo para optimizar los sistemas, Adobe dejará de ofrecer su plan de suscripción. Para seguir disfrutando de las ventajas de Adobe Sign, suscríbase al plan Adobe Sign for Small Business usando la misma dirección de correo electrónico.",
+  "regularPriceMsg" : "Adquiera una suscripción anual por {0}/licencia/año, {1} †",
+  "promotionalPriceMsg" : "Disfrute del primer año de suscripción por {0}/licencia/año, {1} †.",
+  "buyNowBtnText" : "Comprar ahora",
+  "faqContent" : "Lea las <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Preguntas frecuentes</a> para obtener más información.",
+  "migrationActionMsg" : "Si elige no suscribirse, pero quiere seguir accediendo a sus archivos, su suscripción de equipo pasará a ser una suscripción gratuita. Una suscripción gratuita permite enviar dos documentos cada 30 días de forma continua, pero no permite usar las funcionalidades de administración de equipos. Para usar una cuenta gratuita, los administradores y usuarios deben <a href=\"{0}\">iniciar sesión con un Adobe ID existente o crear uno</a> con la misma dirección de correo electrónico de su cuenta de Adobe Sign actual.",
+  "billingMsg1" : "† Compromiso anual necesario.",
+  "billingMsg2" : "† Precio estándar: {0}/licencia/año, {1}.",
+  "billingMsg3" : "Este precio promocional solo será válido durante el primer año. Al comenzar el segundo año, se cobrará el precio estándar correspondiente. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Consulte los Términos y condiciones</a>",
+
+  "downloadCsvModalHeader" : "Descargar la lista de usuarios de la cuenta",
+  "downloadCsvMsg1" : "Para que su equipo pueda seguir accediendo a Adobe Sign, deberá volver a invitar a los usuarios utilizando Admin Console. Para simplificar este proceso, puede exportar la lista de usuarios actual en formato CSV antes de finalizar.",
+  "downloadCsvMsg2" : "Recuento de licencias actual: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Descargar y continuar</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Continuar sin descargar</a>",
+
+  "adobeIdModalHeader" : "Información importante sobre su suscripción de Adobe Sign",
+  "createAdobeIdMsg" : "Es posible que se vea afectado por un cambio en las suscripciones de Adobe Sign. Para que la transición sea lo más sencilla posible, inicie sesión con su Adobe ID o cree uno usando la misma dirección de correo electrónico de su cuenta de Adobe Sign.",
+  "contactAdminMsg" : "Si tiene alguna pregunta, póngase en contacto con el administrador de su cuenta.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Comenzar</a>",
+  "createAdobeIdMsgAfterDowngraded" : "La suscripción Teams de Adobe Sign ha expirado y su empresa no ha renovado la suscripción. Para seguir accediendo a los archivos, puede usar una cuenta gratuita de Adobe Sign, que permite enviar dos documentos para su firma cada 30 días. Para usar una cuenta gratuita, inicie sesión con su Adobe ID actual o cree uno usando la misma dirección de correo electrónico de su cuenta de Adobe Sign actual.",
+  "includingTax" : "con impuestos",
+  "excludingTax" : "impuestos no incluidos"
+}

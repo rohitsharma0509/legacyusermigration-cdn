@@ -1,0 +1,7 @@
+.idea/
+dist/
+test/example/
+test_coverage/
+test_results/
+js/dc-libs/
+js/xlibs/

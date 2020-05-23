@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Bun venit în contul dvs. gratuit",
+  "purchaseModalHeader" : "Informații importante despre abonamentul dvs. Adobe Sign",
+  "purchaseMsg" : "Ca parte a efortului continuu de a optimiza sistemele noastre, Adobe nu va mai oferi planul dvs. actual de abonament. Pentru a continua să experimentați beneficiile plătite ale Adobe Sign, abonați-vă la noul plan Adobe Sign pentru afaceri mici utilizând aceeași adresă de e-mail.",
+  "regularPriceMsg" : "Cumpărați un abonament anual la {0}/licență/an, {1} †",
+  "promotionalPriceMsg" : "Bucurați-vă de un preț promoțional pentru primul an de {0}/licență/an, {1} †.",
+  "buyNowBtnText" : "Cumpărați acum",
+  "faqContent" : "Citiți <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Întrebările frecvente</a> pentru informații suplimentare.",
+  "migrationActionMsg" : "Dacă decideți să nu vă abonați, dar doriți să păstrați accesul la fișierele dvs. existente, abonamentul echipei dvs. va fi redus la un abonament gratuit. Un abonament gratuit include posibilitatea de a trimite două documente la fiecare 30 de zile (în mod continuu), dar nu va mai permite utilizarea funcțiilor administrative ale echipei. Pentru a utiliza un cont gratuit, administratorii și utilizatorii trebuie să <a href=\"{0}\">se conecteze cu un ID Adobe existent sau să creeze un ID Adobe</a> folosind aceeași adresă de e-mail ca și pentru contul Adobe Sign curent.",
+  "billingMsg1" : "† Este necesar un abonament anual.",
+  "billingMsg2" : "† Prețul standard curent este {0}/licență/an, {1}.",
+  "billingMsg3" : "Prețul promoțional este valid doar pentru primul an. Începând cu anul 2, veți fi facturat la prețul curent la momentul respectiv. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Consultați Termeni și condiții</a>",
+
+  "downloadCsvModalHeader" : "Descărcați lista de utilizatori ai contului",
+  "downloadCsvMsg1" : "Pentru a vă asigura că echipa dvs. nu pierde accesul la Adobe Sign, va trebui să invitați din nou utilizatorii folosind noua consolă Admin Console pentru administrarea utilizatorilor. Pentru a ajuta la simplificarea acestei activități, puteți exporta lista de utilizatori curentă într-un format CSV importabil înainte de a trece la finalizare.",
+  "downloadCsvMsg2" : "Numărul curent al licențelor: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Descărcați și continuați</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Continuați fără descărcare</a>",
+
+  "adobeIdModalHeader" : "Informații importante despre abonamentul dvs. Adobe Sign",
+  "createAdobeIdMsg" : "O modificare viitoare a abonamentului Adobe Sign vă poate afecta. Pentru a vă asigura că această tranziție este perfectă, vă rugăm să vă conectați cu ID-ul Adobe existent sau să creați un ID Adobe utilizând aceeași adresă de e-mail ca și contul dvs. curent Adobe Sign.",
+  "contactAdminMsg" : "Dacă aveți întrebări, contactați administratorul contului.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Noțiuni introductive</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Planul dvs. Adobe Sign pentru echipe a expirat, iar organizația dvs. nu a reînnoit abonamentul. Pentru a păstra accesul la fișierele existente, puteți utiliza un cont Adobe Sign gratuit, care vă permite să trimiteți două documente pentru semnătură gratuit la fiecare 30 de zile în mod continuu. Pentru a utiliza contul dvs. gratuit, vă rugăm să vă autentificați cu ID-ul Adobe existent sau să creați un ID Adobe utilizând aceeași adresă de e-mail ca și contul dvs. curent Adobe Sign.",
+  "includingTax" : "cu taxe",
+  "excludingTax" : "fără taxe"
+}

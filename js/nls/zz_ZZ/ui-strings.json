@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "[iN] ā_Welcome to your free account_ž",
+  "purchaseModalHeader" : "[iJ] ā_Important information about your Adobe Sign subscription_ž",
+  "purchaseMsg" : "[iK] ā_As part of an ongoing effort to optimize our systems, Adobe will no longer be offering your current subscription plan. To continue experiencing the paid benefits of Adobe Sign, please subscribe to the new Adobe Sign for Small Business plan using your same e-mail address._ž",
+  "regularPriceMsg" : "[iL] ā_Purchase a yearly subscription at {0}/license/year, {1} †_ž",
+  "promotionalPriceMsg" : "[iI] ā_Enjoy a promotional price for the first year at {0}/license/year, {1} †._ž",
+  "buyNowBtnText" : "[h8] ā_Buy Now_ž",
+  "faqContent" : "[iF] ā_Please read our <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">FAQs</a> for additional information._ž",
+  "migrationActionMsg" : "[iH] ā_If you decide not to subscribe but would like to retain access to your existing files, your team subscription will be downgraded to a free subscription. A free subscription includes the ability to send two documents every 30 days (on a rolling basis), but will no longer allow for the use of team administrative features. To use a free account, admins and users must <a href=\"{0}\">sign in with an existing Adobe ID or create an Adobe ID</a> using the same email address as the current Adobe Sign account._ž",
+  "billingMsg1" : "[h5] ā_† Annual commitment required._ž",
+  "billingMsg2" : "[h6] ā_† Standard list price is currently {0}/license/year, {1}._ž",
+  "billingMsg3" : "[h7] ā_The promotional pricing is only valid for the first year. Starting Year 2, you will be billed at the then-current list price. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">See Terms and Conditions</a>_ž",
+
+  "downloadCsvModalHeader" : "[iB] ā_Download account user list_ž",
+  "downloadCsvMsg1" : "[iD] ā_To ensure your team doesn't lose access to Adobe Sign you will need to re-invite users using the new user management Admin Console. To help simplify this activity you can export your current user list in an importable CSV format before proceeding to checkout._ž",
+  "downloadCsvMsg2" : "[iE] ā_Current license count : _ž",
+  "downloadBtn" : "[iA] ā_<a class=\"download-link\" href=\"{0}\">Download and Continue</a>_ž",
+  "skipDownloadBtn" : "[iM] ā_<a class=\"skip-download-link\" href=\"{0}\">Continue without Download</a>_ž",
+
+  "adobeIdModalHeader" : "[iC] ā_Important information about your Adobe Sign subscription_ž",
+  "createAdobeIdMsg" : "[h+] ā_An upcoming Adobe Sign subscription change may affect you. To ensure this transition is seamless, please log in with your existing Adobe ID or create an Adobe ID using the same email address as your current Adobe Sign account._ž",
+  "contactAdminMsg" : "[h9] ā_If you have any question, please contact your account administrator._ž",
+  "getStartedBtn" : "[iG] ā_<a class=\"create-adobe-id\" href=\"{0}\">Get Started</a>_ž",
+  "createAdobeIdMsgAfterDowngraded" : "[h/] ā_Your Adobe Sign for Teams plan has expired, and your organization has not renewed the subscription. To retain access to your existing files, you can use a free Adobe Sign account, which lets you send two documents for signature for free every 30 days on a rolling basis. To use your free account, please log in with your existing Adobe ID or create an Adobe ID using the same email address as your current Adobe Sign account._ž",
+  "includingTax" : "[jr] ā_including tax_ž",
+  "excludingTax" : "[jq] ā_excluding tax_ž"
+}

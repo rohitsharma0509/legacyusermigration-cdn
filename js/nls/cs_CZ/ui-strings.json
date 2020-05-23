@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Vítejte ve svém bezplatném účtu",
+  "purchaseModalHeader" : "Důležité informace o vašem předplatném služby Adobe Sign",
+  "purchaseMsg" : "Na základě probíhajících snah o optimalizaci našich systémů již společnost Adobe nebude nabízet váš současný plán předplatného. Chcete-li nadále využívat placených výhod služby Adobe Sign, zakupte si plán pro malé podniky Small Business a použijte přitom stejnou e-mailovou adresu.",
+  "regularPriceMsg" : "Pořiďte si roční předplatné za {0}/licenci/rok, {1} †",
+  "promotionalPriceMsg" : "Využijte propagační ceny za první rok ve výši {0}/licenci/rok, {1} †.",
+  "buyNowBtnText" : "Koupit nyní",
+  "faqContent" : "Další informace naleznete v sekci <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Časté dotazy</a>.",
+  "migrationActionMsg" : "Pokud se rozhodnete neplatit si předplatné, ale budete si chtít zachovat přístup ke svým souborům, bude vaše předplatné pro tým převedeno na nižší bezplatnou verzi. S bezplatnou verzí předplatného budete moci průběžně každých 30 dní odeslat 2 dokumenty, ale nebudete již moci využívat funkcí týmové správy. Chcete-li používat bezplatný účet, musí se správce a uživatelé <a href=\"{0}\">přihlásit prostřednictvím svých Adobe ID nebo si vytvořit Adobe ID</a> se stejnou e-mailovou adresou, kterou používají pro svůj účet ve službě Adobe Sign.",
+  "billingMsg1" : "† Vyžaduje roční předplatné.",
+  "billingMsg2" : "† Standardní cena je v současnosti {0}/licenci/rok, {1}.",
+  "billingMsg3" : "Propagační ceny jsou platné pouze první rok. Od druhého roku vám bude za služby účtován poplatek podle aktuálního ceníku. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Další informace naleznete ve smluvních podmínkách</a>",
+
+  "downloadCsvModalHeader" : "Stáhnout seznam uživatelů účtu",
+  "downloadCsvMsg1" : "Aby váš tým nepřišel o přístup do služby Adobe Sign, budete muset uživatele znovu pozvat prostřednictvím nové Konzole správce pro správu uživatelů. Tento úkon si můžete před obnovením předplatného zjednodušit exportem seznamu současných uživatelů do formátu CSV, který poté budete moci znovu naimportovat.",
+  "downloadCsvMsg2" : "Počet aktuálních licencí: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Stáhnout a pokračovat</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Pokračovat bez stažení</a>",
+
+  "adobeIdModalHeader" : "Důležité informace o vašem předplatném služby Adobe Sign",
+  "createAdobeIdMsg" : "Blížící se změna v předplatném služby Adobe Sign se může týkat i vás. Aby byl zajištěn hladký přechod, přihlaste se prostřednictvím svého Adobe ID nebo si vytvořte Adobe ID se stejnou e-mailovou adresou, kterou používáte pro svůj účet ve službě Adobe Sign.",
+  "contactAdminMsg" : "S případnými dotazy se obraťte na správce účtu.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Začínáme</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Platnost vašeho plánu služby Adobe Sign pro týmy vypršela a vaše organizace předplatné ještě neobnovila. Chcete-li stále mít přístup ke svým souborům, můžete využít bezplatný účet ve službě Adobe Sign, který umožňuje zdarma odeslat dva dokumenty k podpisu každých 30 dní. Chcete-li využívat svůj bezplatný účet, přihlaste se prostřednictvím svého Adobe ID nebo si vytvořte Adobe ID se stejnou e-mailovou adresou, kterou používáte pro svůj účet ve službě Adobe Sign.",
+  "includingTax" : "včetně DPH",
+  "excludingTax" : "bez DPH"
+}

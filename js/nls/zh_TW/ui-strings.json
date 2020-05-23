@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "歡迎使用免費帳戶",
+  "purchaseModalHeader" : "有關您 Adobe Sign 訂閱的重要資訊",
+  "purchaseMsg" : "Adobe 不斷致力於系統最佳化，因此不再提供您目前使用的訂閱方案。若要繼續使用 Adobe Sign 的付費功能，請使用相同的電子郵件地址，訂閱適用於小企業的全新 Adobe Sign 方案。",
+  "regularPriceMsg" : "購買定價為 {0}/授權/年 ({1}) 的年繳訂閱†",
+  "promotionalPriceMsg" : "首年享有促銷價 {0}/授權/年 ({1})†。",
+  "buyNowBtnText" : "立即購買",
+  "faqContent" : "若需了解詳細資訊，請參閱<a href=\"{0}\" id=\"faq-link\" target=\"_blank\">常見問題集</a>。",
+  "migrationActionMsg" : "若您決定不再訂閱，但希望繼續存取現有的檔案，您的團隊訂閱將會降級為免費訂閱方案。此方案能讓您每 30 天免費傳送兩份文件，但無法使用團隊管理功能。若要使用免費帳戶，管理員和使用者必須<a href=\"{0}\">以現有的 Adobe ID 登入或建立 Adobe ID</a> (以您目前 Adobe Sign 帳戶所使用的同一個電子郵件地址建立)。",
+  "billingMsg1" : "† 需簽訂年度合約。",
+  "billingMsg2" : "† 標準定價目前為 {0}/授權/年 ({1})。",
+  "billingMsg3" : "促銷價僅限第一年適用，第 2 年起會以當時的定價計費。<a href=\"{0}\" id=\"faq-link\" target=\"_blank\">參閱條款與條件</a>",
+
+  "downloadCsvModalHeader" : "下載帳戶使用者清單",
+  "downloadCsvMsg1" : "為確保您的團隊仍可繼續存取 Adobe Sign，請使用新的使用者管理 Admin Console 重新邀請使用者。為協助簡化此操作，您能以可供匯入的 CSV 格式，匯出目前的使用者清單，再繼續結帳作業。",
+  "downloadCsvMsg2" : "目前的授權數:",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">下載並繼續</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">繼續但不下載</a>",
+
+  "adobeIdModalHeader" : "有關您 Adobe Sign 訂閱的重要資訊",
+  "createAdobeIdMsg" : "有項即將實施的 Adobe Sign 訂閱變革可能會對您帶來影響。為確保轉換順暢，請以您現有的 Adobe ID 登入，或使用與您目前 Adobe Sign 帳戶相同的電子郵件地址建立 Adobe ID。",
+  "contactAdminMsg" : "如有任何問題，請聯絡您的帳戶管理員。",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">開始</a>",
+  "createAdobeIdMsgAfterDowngraded" : "您的 Adobe Sign 團隊方案已到期，但貴組織尚未續訂。若要繼續存取現有檔案，您可以使用免費的 Adobe Sign 帳戶，這樣還可以每 30 天免費傳送兩份文件以供簽署。若要使用免費帳戶，請以您現有的 Adobe ID 登入，或使用與您目前 Adobe Sign 帳戶相同的電子郵件地址建立 Adobe ID。",
+  "includingTax" : "含稅",
+  "excludingTax" : "不含稅"
+}

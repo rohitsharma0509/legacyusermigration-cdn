@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Tervetuloa käyttämään maksutonta tiliäsi",
+  "purchaseModalHeader" : "Tärkeitä tietoja Adobe Sign -tilauksestasi",
+  "purchaseMsg" : "Adobe ei enää tarjoa nykyistä tilaussopimustasi osana jatkuvia pyrkimyksiämme järjestelmiemme optimoimiseksi. Jos haluat edelleen nauttia Adobe Signin maksullisista eduista, tilaa uusi Adobe Sign for Small Business -sopimus käyttämällä samaa sähköpostiosoitetta.",
+  "regularPriceMsg" : "Osta vuositilaus hintaan {0}/käyttöoikeus/vuosi, {1} †",
+  "promotionalPriceMsg" : "Nauti ensimmäisen vuoden ajan kampanjahinnasta, joka on {0}/käyttöoikeus/vuosi, {1} †.",
+  "buyNowBtnText" : "Osta nyt",
+  "faqContent" : "Lue <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">usein kysytyt kysymykset</a>, joissa on lisätietoja.",
+  "migrationActionMsg" : "Jos päätät olla tilaamatta palvelua, mutta haluat säilyttää oikeutesi olemassa olevien tiedostojesi käyttöön, työryhmätilauksesi muunnetaan maksuttomaksi tilaukseksi. Maksuttomalla tilauksella voit lähettää kaksi dokumenttia 30 päivän välein (liukuvasti), mutta et enää voi käyttää työryhmän hallintatoimintoja. Järjestelmänvalvojien ja käyttäjien on <a href=\"{0}\">kirjauduttava sisään olemassa olevalla Adobe ID:llä tai luotava Adobe ID</a> nykyistä Adobe Sign -tiliään vastaavalla sähköpostiosoitteella.",
+  "billingMsg1" : "† Edellyttää vuosittaista sitoutumista.",
+  "billingMsg2" : "† Normaali luettelohinta on tällä hetkellä {0}/käyttöoikeus/vuosi, {1}.",
+  "billingMsg3" : "Kampanjahinta on voimassa vain ensimmäisen vuoden ajan. Toisesta vuodesta alkaen sinulta veloitetaan silloin voimassa oleva listahinta. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Katso ehdot</a>",
+
+  "downloadCsvModalHeader" : "Lataa tilin käyttäjäluettelo",
+  "downloadCsvMsg1" : "Jotta tiimisi ei menetä oikeuttaan Adobe Signin käyttöön, sinun on kutsuttava käyttäjät uudelleen käyttäjien hallintaan käytettävällä uudella Admin Consolella. Tämän toimenpiteen helpottamiseksi voit viedä nykyisen käyttäjäluettelosi tuontia tukevassa CSV-muodossa, ennen kuin siirryt kassalle.",
+  "downloadCsvMsg2" : "Nykyinen käyttöoikeuksien määrä: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Lataa ja jatka</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Jatka ilman lataamista</a>",
+
+  "adobeIdModalHeader" : "Tärkeitä tietoja Adobe Sign -tilauksestasi",
+  "createAdobeIdMsg" : "Adobe Signin tilauksiin liittyvä tuleva muutos saattaa vaikuttaa sinuun. Kirjaudu siirtymän saumattomuuden varmistamiseksi sisään nykyisellä Adobe ID:lläsi tai luo Adobe ID nykyistä Adobe Sign -tiliäsi vastaavalla sähköpostiosoitteella.",
+  "contactAdminMsg" : "Jos sinulla on kysyttävää, ota yhteyttä tilien hallinnoijaan.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Aloita käyttö</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Adobe Sign for Teams -sopimuksesi voimassaoloaika on päättynyt, eikä organisaatiosi ole uudistanut tilausta. Jotta oikeudet nykyisten tiedostojesi käyttöön säilyvät, voit käyttää maksutonta Adobe Sign -tiliä, jolla voit lähettää kaksi dokumenttia allekirjoitettaviksi maksutta liukuvasti 30 päivän välein. Voit käyttää maksutonta tiliäsi kirjautumalla sisään nykyisellä Adobe ID:lläsi tai luomalla Adobe ID:n nykyistä Adobe Sign -tiliäsi vastaavalla sähköpostiosoitteella.",
+  "includingTax" : "veroineen",
+  "excludingTax" : "ilman veroja"
+}

@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Dobrodošli v brezplačnem računu",
+  "purchaseModalHeader" : "Pomembne informacije glede vaše naročnine na Adobe Sign",
+  "purchaseMsg" : "Adobe želi optimirati svoje sisteme, zato ne bo več nudil vašega trenutnega paketa naročnine. Če želite še naprej uživati v plačljivih ugodnostih programa Adobe Sign, se z istim e-poštnim naslovom naročite na novi paket programa Adobe Sign za mala podjetja.",
+  "regularPriceMsg" : "Kupite letno naročnino po {0} na licenco na leto, {1} †",
+  "promotionalPriceMsg" : "Izkoristite promocijsko ceno za prvo leto, ki znaša {0} na licenco na leto, {1} †.",
+  "buyNowBtnText" : "Nakup",
+  "faqContent" : "Za dodatne informacije si oglejte <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">pogosta vprašanja</a>.",
+  "migrationActionMsg" : "Če se boste odločili, da se ne boste naročili, vendar želite ohraniti dostop do obstoječih datotek, bo vaša naročnina za ekipe zamenjana z brezplačno naročnino. Brezplačna naročnina vključuje zmožnost pošiljanja dveh dokumentov vsakih 30 dni, vendar ne omogoča uporabe skrbniških funkcij za ekipe. Za uporabo brezplačnega računa se morajo skrbniki in uporabniki <a href=\"{0}\">prijaviti z obstoječim Adobe ID-jem ali ustvariti Adobe ID</a> z istim e-poštnim naslovom, kot je uporabljen za trenutni račun Adobe Sign.",
+  "billingMsg1" : "† Zahtevana je letna zaveza.",
+  "billingMsg2" : "† Redna cena po ceniku je trenutno {0} na licenco na leto, {1}.",
+  "billingMsg3" : "Promocijske cene veljajo samo za prvo leto. Z 2. letom po vrsti vam bo zaračunana naročnina po takratni ceni po ceniku. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Oglejte si pogoje in določila</a>",
+
+  "downloadCsvModalHeader" : "Prenesi seznam uporabnikov računa",
+  "downloadCsvMsg1" : "Da vaša ekipa ne bo izgubila dostopa do programa Adobe Sign, boste morali znova povabiti uporabnike prek storitve Admin Console za upravljanje novih uporabnikov. Za lažjo izvedbo tega opravila lahko pred zaključkom nakupa izvozite svoj trenutni seznam uporabnikov v obliko CSV, ki jo je mogoče uvoziti.",
+  "downloadCsvMsg2" : "Trenutno število licenc: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Prenesi in nadaljuj</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Nadaljuj brez prenosa</a>",
+
+  "adobeIdModalHeader" : "Pomembne informacije glede vaše naročnine na Adobe Sign",
+  "createAdobeIdMsg" : "Prihajajoča sprememba naročnine na Adobe Sign lahko vpliva na vas. Da bo prehod brezhiben, se prijavite s svojim obstoječim Adobe ID-jem ali ustvarite Adobe ID z istim e-poštnim naslovom, kot ga uporabljate za trenutni račun Adobe Sign.",
+  "contactAdminMsg" : "Če imate vprašanja, se obrnite na skrbnika računa.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Začnite</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Vaša naročnina na Adobe Sign za ekipe je potekla in vaša organizacija ni obnovila naročnine. Če želite ohraniti dostop do obstoječih datotek, lahko uporabljate brezplačen račun Adobe Sign, ki vam omogoča brezplačno pošiljanje dveh dokumentov v podpis vsakih 30 dni. Če želite uporabljati brezplačen račun, se prijavite s svojim obstoječim Adobe ID-jem ali ustvarite Adobe ID z istim e-poštnim naslovom, kot ga uporabljate za trenutni račun Adobe Sign.",
+  "includingTax" : "z davkom",
+  "excludingTax" : "brez davka"
+}

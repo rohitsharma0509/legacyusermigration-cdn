@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Witamy w bezpłatnym koncie",
+  "purchaseModalHeader" : "Ważne informacje dotyczące subskrypcji usługi Adobe Sign",
+  "purchaseMsg" : "W ramach stałych działań mających na celu optymalizację naszych systemów firma Adobe nie będzie już oferować aktualnego planu subskrypcji. Aby nadal korzystać z płatnych korzyści płynących z usługi Adobe Sign, wykup subskrypcję nowego planu Adobe Sign for Small Business, korzystając z tego samego adresu e-mail.",
+  "regularPriceMsg" : "Kup roczną subskrypcję w cenie {0} na licencję rocznie, {1} †",
+  "promotionalPriceMsg" : "Skorzystaj z ceny promocyjnej za pierwszy rok: {0} na licencję rocznie, {1} †.",
+  "buyNowBtnText" : "Kup teraz",
+  "faqContent" : "Więcej informacji można znaleźć w dokumencie <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Często zadawane pytania</a>.",
+  "migrationActionMsg" : "Jeśli nie chcesz kupować subskrypcji, ale chcesz zachować dostęp do istniejących plików, poziom subskrypcji Twojego zespołu zostanie obniżony do bezpłatnej subskrypcji. Bezpłatna subskrypcja umożliwia wysyłanie dwóch dokumentów co 30 dni, ale nie pozwala już na korzystanie z funkcji administracyjnych zespołu. Aby korzystać z bezpłatnego konta, administratorzy i użytkownicy muszą <a href=\"{0}\">zalogować się za pomocą istniejącego identyfikatora Adobe ID lub utworzyć identyfikator Adobe ID</a>, korzystając z tego samego adresu e-mail, który jest przypisany do bieżącego konta Adobe Sign.",
+  "billingMsg1" : "† Wymagane roczne zobowiązanie.",
+  "billingMsg2" : "† Standardowa cena katalogowa to obecnie {0} na licencję rocznie, {1}.",
+  "billingMsg3" : "Ceny promocyjne obowiązują tylko przez pierwszy rok. Od drugiego roku naliczamy opłatę w wysokości bieżącej ceny katalogowej. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Zapoznaj się z warunkami</a>.",
+
+  "downloadCsvModalHeader" : "Pobierz listę użytkowników kont",
+  "downloadCsvMsg1" : "Aby mieć pewność, że Twój zespół nie utraci dostępu do usługi Adobe Sign, należy ponownie zaprosić użytkowników, korzystając z nowej konsoli administracyjnej do zarządzania użytkownikami. Aby uprościć to działanie, możesz wyeksportować bieżącą listę użytkowników do umożliwiającego import formatu CSV przed przejściem do kasy.",
+  "downloadCsvMsg2" : "Bieżąca liczba licencji: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Pobierz i kontynuuj</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Kontynuuj bez pobierania</a>",
+
+  "adobeIdModalHeader" : "Ważne informacje dotyczące subskrypcji usługi Adobe Sign",
+  "createAdobeIdMsg" : "Zbliżająca się zmiana subskrypcji usługi Adobe Sign może mieć wpływ na użytkownika. Aby zapewnić bezproblemowe przejście, zaloguj się za pomocą istniejącego identyfikatora Adobe ID lub utwórz identyfikator Adobe ID, używając tego samego adresu e-mail, który jest przypisany do bieżącego konta Adobe Sign.",
+  "contactAdminMsg" : "W przypadku jakichkolwiek pytań skontaktuj się z administratorem konta.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Rozpocznij</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Twój plan Adobe Sign for Teams wygasł, a Twoja organizacja nie odnowiła subskrypcji. Aby zachować dostęp do istniejących plików, możesz korzystać z bezpłatnego konta Adobe Sign, które umożliwia darmowe wysyłanie dwóch dokumentów do podpisania co 30 dni. Aby skorzystać z bezpłatnego konta, zaloguj się za pomocą istniejącego identyfikatora Adobe ID lub utwórz identyfikator Adobe ID, używając tego samego adresu e-mail, który jest przypisany do bieżącego konta Adobe Sign.",
+  "includingTax" : "z podatkiem",
+  "excludingTax" : "bez podatku"
+}

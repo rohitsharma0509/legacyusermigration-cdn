@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- -->
+  <title>Static Assets Hello World</title>
+  <!--<base href="__VERSION__/">-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .modal .modal-header.no-divider {
+      border-bottom: 0;
+    }
+  </style>
+  <script src="__VERSION__/team-migration-plugin.js"></script>
+  <script type="text/javascript">
+    App.Env.esPluginConfig = {
+      pluginHostDomain: 'https://secure.local.echocdn.com:9000/',
+      language: "en",
+      country: "US",
+      isDismissible: true,
+      showLegacyTeamMigrationAdobeIdOptionModal: false,
+      showLegacyTeamMigrationPurchaseOptionModal: true,
+      numOfActiveUsers: 2,
+      currentLicenseCount: 10,
+      createAdobeIDUrl: "https://www.google.co.in",
+      purchaseUrl: "https://www.google.co.in",
+      downloadUserListUrl: "/account/userListExport",
+      migrationStatus: 'MIGRATION_WINDOW_ENDED_FOR_TEAM_ACCOUNT',
+      isAdobeIdCreated: false,
+      environment: 'local',
+      faqUrl: "https://helpx.adobe.com/sign/help/subscription-update.html"
+    };
+  </script>
+  <script src="__VERSION__/main.js"></script>
+  <script type="text/javascript">
+    $(function() {
+      window.fnTeamMigrationPluginStart();
+    });
+  </script>
+</head>
+<body>
+</body>
+</html>

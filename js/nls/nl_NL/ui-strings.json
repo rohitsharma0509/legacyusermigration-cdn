@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Welkom bij uw gratis account",
+  "purchaseModalHeader" : "Belangrijke informatie over uw Adobe Sign-abonnement",
+  "purchaseMsg" : "Adobe werkt aan de optimalisatie van haar systemen en uw huidige abonnement wordt niet langer aangeboden. Als u wilt blijven werken met de tegen betaling beschikbare functies van Adobe Sign, kiest u voor het nieuwe Adobe Sign for Small Business-abonnement met gebruik van hetzelfde e-mailadres.",
+  "regularPriceMsg" : "Schaf een jaarabonnement aan voor {0}/licentie/jaar, {1} †",
+  "promotionalPriceMsg" : "Geniet het eerste jaar van een speciale prijs: {0}/licentie/jaar, {1} †.",
+  "buyNowBtnText" : "Nu kopen",
+  "faqContent" : "Lees onze <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">FAQ's</a> voor meer informatie.",
+  "migrationActionMsg" : "Als u geen lid wilt worden, maar wel toegang wilt houden tot uw bestaande bestanden, wordt uw teamlidmaatschap omgezet in een gratis lidmaatschap. Met een gratis lidmaatschap kunt u elke 30 dagen (op doorlopende basis) twee documenten verzenden, maar kunt u de functies voor teambeheer niet langer gebruiken. Beheerders en gebruikers kunnen een gratis account gebruiken als ze zich <a href=\"{0}\">aanmelden met een bestaande Adobe ID of een Adobe ID maken</a> met hetzelfde e-mailadres als het huidige Adobe Sign-account.",
+  "billingMsg1" : "† Jaarabonnement vereist.",
+  "billingMsg2" : "† Standaardprijs is momenteel {0}/licentie/jaar, {1}.",
+  "billingMsg3" : "De aanbiedingsprijs geldt alleen gedurende het eerste jaar. Met ingang van Jaar 2 wordt het op dat moment geldende tarief in rekening gebracht. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Raadpleeg de voorwaarden en bepalingen</a>",
+
+  "downloadCsvModalHeader" : "Lijst met accountgebruikers downloaden",
+  "downloadCsvMsg1" : "Om ervoor te zorgen dat uw team toegang blijft houden tot Adobe Sign, moet u gebruikers opnieuw uitnodigen via de nieuwe Admin Console voor gebruikersbeheer. U kunt deze taak vereenvoudigen door uw actuele gebruikerslijst te exporteren naar een importeerbare CSV-indeling voordat u afrekent.",
+  "downloadCsvMsg2" : "Huidig aantal licenties: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Downloaden en doorgaan</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Doorgaan zonder downloaden</a>",
+
+  "adobeIdModalHeader" : "Belangrijke informatie over uw Adobe Sign-abonnement",
+  "createAdobeIdMsg" : "Een aanstaande wijziging op het gebied van Adobe Sign-abonnementen betreft u wellicht. Meld u voor een naadloze overgang aan met uw bestaande Adobe ID of maak een Adobe ID met hetzelfde e-mailadres als uw actuele Adobe Sign-account.",
+  "contactAdminMsg" : "Neem contact op met uw beheerder als u vragen hebt.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Aan de slag</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Uw Adobe Sign for Teams-abonnement is verlopen en uw bedrijf heeft het abonnement niet verlengd. Gebruik een gratis Adobe Sign-account om toegang tot uw bestaande bestanden te houden. Hiermee kunt u elke 30 dagen op doorlopende basis gratis twee documenten verzenden. Meld u aan met uw bestaande Adobe ID of maak een Adobe ID met hetzelfde e-mailadres als uw actuele Adobe Sign-account om uw gratis account te gebruiken.",
+  "includingTax" : "inclusief btw",
+  "excludingTax" : "exclusief btw"
+}

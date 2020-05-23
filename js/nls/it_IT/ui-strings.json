@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Benvenuto/a nel tuo account gratuito",
+  "purchaseModalHeader" : "Informazioni importanti sul tuo abbonamento Adobe Sign",
+  "purchaseMsg" : "Nell’ambito dell’impegno continuo di ottimizzazione dei sistemi, Adobe non offrirà più il tuo attuale piano di abbonamento. Per continuare a usufruire delle funzionalità a pagamento di Adobe Sign, puoi abbonarti al nuovo piano Adobe Sign for Small Business utilizzando lo stesso indirizzo e-mail.",
+  "regularPriceMsg" : "Acquista un abbonamento annuale al prezzo di {0} per licenza all’anno, {1}†",
+  "promotionalPriceMsg" : "Approfitta del prezzo promozionale per il primo anno: {0} per licenza all’anno, {1}†.",
+  "buyNowBtnText" : "Acquista",
+  "faqContent" : "Per ulteriori informazioni, leggi le <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">risposte alle domande più frequenti</a>.",
+  "migrationActionMsg" : "Se preferisci non abbonarti ma vuoi comunque accedere ai tuoi file esistenti, il tuo abbonamento Team sarà ridotto a un abbonamento gratuito. Con un abbonamento gratuito è possibile inviare due documenti ogni 30 giorni (su base continua), ma non sarà più possibile usufruire delle funzionalità di amministratore Team. Per usare un account gratuito, gli amministratori e gli utenti devono <a href=\"{0}\">accedere con un Adobe ID esistente oppure creare un Adobe ID</a> utilizzando lo stesso indirizzo e-mail del loro attuale account Adobe Sign.",
+  "billingMsg1" : "†Richiede un impegno annuale.",
+  "billingMsg2" : "†L’attuale prezzo di listino standard è {0} per licenza all’anno, {1}.",
+  "billingMsg3" : "Il prezzo promozionale è valido solo per il primo anno. A partire dal secondo anno, ti verrà addebitato il prezzo di listino in vigore in tale data. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Consulta i termini e le condizioni</a>",
+
+  "downloadCsvModalHeader" : "Scarica l’elenco degli utenti dell’account",
+  "downloadCsvMsg1" : "Affinché il tuo team possa continuare ad accedere ad Adobe Sign, invita di nuovo gli utenti dalla nuova Admin Console per la gestione degli utenti. Per facilitare questa attività, prima di procedere con l’acquisto puoi esportare l’elenco degli utenti attuali sotto forma di file CSV che potrai importare.",
+  "downloadCsvMsg2" : "Numero di licenze attuali: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Scarica e continua</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Continua senza scaricare</a>",
+
+  "adobeIdModalHeader" : "Informazioni importanti sul tuo abbonamento Adobe Sign",
+  "createAdobeIdMsg" : "Potresti essere interessato da una modifica che verrà applicata prossimamente agli abbonamenti Adobe Sign. Per garantire una transizione senza interruzioni, accedi con il tuo Adobe ID esistente oppure crea un Adobe ID utilizzando lo stesso indirizzo e-mail del tuo attuale account Adobe Sign.",
+  "contactAdminMsg" : "Per eventuali domande, contatta l’amministratore del tuo account.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Inizia</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Il tuo piano Adobe Sign for Teams è scaduto e la tua organizzazione non ha rinnovato l’abbonamento. Per accedere ai tuoi file esistenti, puoi usare un account Adobe Sign gratuito che ti permette di inviare gratuitamente due documenti da firmare ogni 30 giorni, su base continua. Per usare l’account gratuito, accedi con il tuo Adobe ID esistente oppure crea un Adobe ID utilizzando lo stesso indirizzo e-mail del tuo attuale account Adobe Sign.",
+  "includingTax" : "incl. imposte",
+  "excludingTax" : "escl. imposte"
+}

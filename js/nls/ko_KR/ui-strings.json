@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "무료 계정으로 시작",
+  "purchaseModalHeader" : "Adobe Sign 구독 관련 중요 정보",
+  "purchaseMsg" : "Adobe에서는 시스템을 최적화하기 위해 진행 중인 노력의 일환으로 더 이상 현재 구독 플랜을 제공하지 않습니다. Adobe Sign의 유료 혜택을 계속 받으려면 동일한 전자 메일 주소를 사용하여 새로운 Small Business용 Adobe Sign 플랜을 구독하십시오.",
+  "regularPriceMsg" : "연간 구독을 {0}/사용권/년, {1}에 구입하십시오 †.",
+  "promotionalPriceMsg" : "첫 해에는 {0}/사용권/년, {1}의 행사가로 이용해 보십시오 †.",
+  "buyNowBtnText" : "지금 구입",
+  "faqContent" : "자세한 내용은 <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">FAQ</a>를 참조하십시오.",
+  "migrationActionMsg" : "구독하지 않기로 결정했지만 기존 파일에 대한 액세스 권한을 유지하려는 경우 팀 구독이 무료 구독으로 다운그레이드됩니다. 무료 구독에는 30일마다 두 개의 문서를 전송할 수 있는 기능이 포함되지만 더 이상 팀 관리 기능을 사용할 수는 없습니다. 무료 계정을 사용하려면 관리자와 사용자는 현재 Adobe Sign 계정과 동일한 전자 메일 주소를 사용하여 <a href=\"{0}\">기존 Adobe ID로 로그인하거나 Adobe ID를 생성</a>해야 합니다.",
+  "billingMsg1" : "† 연간 약정이 필요합니다.",
+  "billingMsg2" : "† 표준 정가는 현재 {0}/사용권/년, {1}입니다.",
+  "billingMsg3" : "행사가는 첫 해에만 유효합니다. 2년부터는 해당 시기의 정가가 청구됩니다. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">약관 참조</a>",
+
+  "downloadCsvModalHeader" : "계정 사용자 목록 다운로드",
+  "downloadCsvMsg1" : "팀이 Adobe Sign에 계속 액세스할 수 있도록 하려면 새 사용자 관리 Admin Console로 사용자를 다시 초대해야 합니다. 이 활동을 단순화하기 위해, 체크아웃을 진행하기 전에 가져올 수 있는 CSV 형식으로 현재 사용자 목록을 내보낼 수 있습니다.",
+  "downloadCsvMsg2" : "현재 사용권 수 : ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">다운로드 및 계속</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">다운로드 없이 계속</a>",
+
+  "adobeIdModalHeader" : "Adobe Sign 구독 관련 중요 정보",
+  "createAdobeIdMsg" : "다가오는 Adobe Sign 구독 변경에 영향을 받을 수도 있습니다. 이 전환이 원활하게 이루어지도록 하려면 기존 Adobe ID로 로그인하거나 현재 Adobe Sign 계정과 동일한 전자 메일 주소를 사용하여 Adobe ID를 만드십시오.",
+  "contactAdminMsg" : "질문이 있으시면 계정 관리자에게 문의하십시오.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">시작하기</a>",
+  "createAdobeIdMsgAfterDowngraded" : "팀용 Adobe Sign 플랜이 만료되었으나 조직이 구독을 갱신하지 않았습니다. 기존 파일에 계속 액세스하기 위해 무료 Adobe Sign 계정을 사용할 수 있습니다. 이렇게 하면 30일마다 순서대로 서명할 문서 2개를 무료로 보낼 수 있습니다. 무료 계정을 사용하려면 기존 Adobe ID로 로그인하거나 현재 Adobe Sign 계정과 동일한 전자 메일 주소를 사용하여 Adobe ID를 만드십시오.",
+  "includingTax" : "세금 포함",
+  "excludingTax" : "세금 제외"
+}

@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Üdvözöljük ingyenes fiókjában!",
+  "purchaseModalHeader" : "Fontos információk Adobe Sign előfizetéséről",
+  "purchaseMsg" : "Az Adobe kínálatából rendszeroptimalizálási folyamatok miatt kikerül az Ön jelenlegi előfizetési csomagja. Az Adobe Sign előfizetéssel járó előnyök további kihasználásához kérjük, vásárolja meg az új Adobe Sign Small Business előfizetési csomagot ugyanezzel az e-mail-címmel.",
+  "regularPriceMsg" : "Vásároljon éves előfizetést az alábbi feltételekkel: {0}/licenc/év, {1} †",
+  "promotionalPriceMsg" : "Használja ki az első évre szóló promóciós árat: {0}/licenc/év, {1} †.",
+  "buyNowBtnText" : "Megvásárlás",
+  "faqContent" : "Kérjük, olvassa el a következőt a további információkért: <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">FAQs</a> ",
+  "migrationActionMsg" : "Ha úgy dönt, hogy nem vásárol előfizetést, de szeretne továbbra is hozzáférni meglévő fájljaihoz, csapatok számára szóló előfizetését alacsonyabb szintű, ingyenes előfizetéssé alakítjuk. Az ingyenes előfizetéssel 30 naponta – folyamatosan megújuló alapon – két dokumentumot küldhet el aláírásra, de nem fog hozzáférni a csapatadminisztrációs lehetőségekhez. Az ingyenes fiók használatához a rendszergazdáknak és a felhasználóknak <a href=\"{0}\">be kell jelentkezniük meglévő Adobe ID azonosítójukkal, vagy létre kell hozniuk egy Adobe ID azonosítót</a> ugyanazzal az e-mail-címmel, melyet jelenlegi Adobe Sign fiókjukhoz használnak.",
+  "billingMsg1" : "† Egyéves hűségvállalás szükséges.",
+  "billingMsg2" : "† A jelenlegi normál listaár {0}/licenc/év, {1}.",
+  "billingMsg3" : "A promóciós ár kizárólag az első évre érvényes. A második évtől az akkor aktuális listaár kerül felszámításra. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">See Terms and Conditions</a>",
+
+  "downloadCsvModalHeader" : "Fiók felhasználói listájának letöltése",
+  "downloadCsvMsg1" : "Annak érdekében, hogy csapata továbbra is hozzáférjen az Adobe Sign szolgáltatáshoz, újra meg kell hívnia a felhasználókat a szolgáltatás használatára az új Admin Console felhasználókezelő segítségével. A tevékenység megkönnyítéséhez exportálja jelenlegi felhasználói listáját importálható CSV formátumba a kijelentkezés előtt.",
+  "downloadCsvMsg2" : "Jelenlegi licencek száma: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Letöltés és folytatás</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Folytatás letöltés nélkül</a>",
+
+  "adobeIdModalHeader" : "Fontos információk Adobe Sign előfizetéséről",
+  "createAdobeIdMsg" : "A közelgő Adobe Sign előfizetést érintő módosítás az Ön előfizetésére is hatással lehet. A problémamentes átállás érdekében kérjük, jelentkezzen be meglévő Adobe ID azonosítójával, vagy hozzon létre egy új Adobe ID azonosítót jelenlegi Adobe Sign fiókjához tartozó e-mail-címével.",
+  "contactAdminMsg" : "Ha bármilyen kérdése van, lépjen kapcsolatba fiókja rendszergazdájával.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Kezdés</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Adobe Sign for Teams csomagja lejárt, vállalata pedig nem újította meg az előfizetést. Ha szeretne továbbra is hozzáférni meglévő fájljaihoz, használhatja az ingyenes Adobe Sign fiókot, mellyel 30 naponta – folyamatosan megújuló alapon – két dokumentumot küldhet el aláírásra. Az ingyenes fiók használatához kérjük, jelentkezzen be meglévő Adobe ID azonosítójával, vagy hozzon létre Adobe ID azonosítót ugyanazzal az e-mail-címmel, melyet jelenlegi Adobe Sign fiókjához használ.",
+  "includingTax" : "Adóval együtt",
+  "excludingTax" : "Adó nélkül"
+}

@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Willkommen bei Ihrem kostenlosen Konto",
+  "purchaseModalHeader" : "Wichtige Informationen zu Ihrem Adobe Sign-Abo",
+  "purchaseMsg" : "Adobe bietet Ihre aktuelle Abo-Variante nicht mehr an, da wir unsere Systeme optimieren möchten. Wenn Sie weiterhin die Vorteile eines kostenpflichtigen Adobe Sign-Abos nutzen möchten, erwerben Sie bitte die neue Abo-Variante für Kleinunternehmen von Adobe Sign mit derselben E-Mail-Adresse.",
+  "regularPriceMsg" : "Erwerben Sie ein Jahres-Abo für {0}/Lizenz/Jahr, {1} †",
+  "promotionalPriceMsg" : "Freuen Sie sich im ersten Jahr auf einen Angebotspreis von {0}/Lizenz/Jahr, {1} †.",
+  "buyNowBtnText" : "Jetzt kaufen",
+  "faqContent" : "Weitere Informationen finden Sie in unseren <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">FAQs</a>.",
+  "migrationActionMsg" : "Falls Sie sich gegen ein Abo entscheiden, aber weiterhin Zugang zu Ihren Dateien haben wollen, wird Ihr Team-Abo auf ein kostenloses Abo herabgestuft. Das kostenlose Abo gestattet Ihnen, alle 30 Tage kostenlos zwei Dokumente zur Unterschrift zu verschicken. Sie können aber keine administrativen Funktionen mehr für Ihr Team nutzen. Um ein kostenloses Konto zu verwenden, müssen sich Administratoren und User <a href=\"{0}\">mit einer bestehenden Adobe ID anmelden oder eine Adobe ID</a> mit derselben E-Mail-Adresse wie bei Ihrem aktuellen Adobe Sign-Konto erstellen.",
+  "billingMsg1" : "† Eine jährliche Verpflichtung ist erforderlich.",
+  "billingMsg2" : "† Der standardmäßige Listenpreis ist derzeit {0}/Lizenz/Jahr, {1}.",
+  "billingMsg3" : "Der Angebotspreis ist nur für das erste Jahr gültig. Ab dem zweiten Jahr wird Ihnen der aktuelle Listenpreis berechnet. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Nutzungsbedingungen</a>",
+
+  "downloadCsvModalHeader" : "Liste der Nutzerkonten herunterladen",
+  "downloadCsvMsg1" : "Um sicherzustellen, dass Ihr Team weiterhin Zugang zu Adobe Sign hat, müssen Sie die Nutzer über die neue Admin Console für das User Management erneut einladen. Sie können diese Aktivität vereinfachen, indem Sie eine Liste Ihrer aktuellen User in eine importierbare CSV-Datei exportieren, bevor Sie zum Checkout fortfahren.",
+  "downloadCsvMsg2" : "Aktuelle Anzahl an Lizenzen: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Herunterladen und fortfahren</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Ohne Herunterladen fortfahren</a>",
+
+  "adobeIdModalHeader" : "Wichtige Informationen zu Ihrem Adobe Sign-Abo",
+  "createAdobeIdMsg" : "Möglicherweise sind Sie von einer kommenden Veränderung für Adobe Sign-Abos betroffen. Um einen nahtlosen Übergang sicherzustellen, melden Sie sich mit Ihrer Adobe ID an oder erstellen Sie eine Adobe ID mit derselben E-Mail-Adresse wie bei Ihrem aktuellen Adobe Sign-Konto.",
+  "contactAdminMsg" : "Wenden Sie sich bei Fragen an Ihren Kontoadministrator.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Erste Schritte</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Ihr Adobe Sign für Teams-Abo ist abgelaufen und Ihr Unternehmen hat das Abo nicht verlängert. Um weiterhin Zugriff auf Ihre Dateien zu haben, können Sie ein kostenloses Adobe Sign-Konto verwenden. Dieses Konto gestattet Ihnen, alle 30 Tage kostenlos zwei Dokumente zur Unterschrift zu verschicken. Melden Sie sich mit Ihrer bestehenden Adobe ID an, oder erstellen Sie eine Adobe ID mit derselben E-Mail-Adresse wie bei Ihrem aktuellen Adobe Sign-Konto, um Ihr kostenloses Konto zu nutzen.",
+  "includingTax" : "inklusive Steuern",
+  "excludingTax" : "exklusive Steuern"
+}

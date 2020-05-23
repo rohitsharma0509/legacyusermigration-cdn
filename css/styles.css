@@ -1,0 +1,137 @@
+.migration-modal-content {
+    color: #444444;
+    font-family: adobe-clean, "Adobe Clean", Regular;
+    font-size: 14px;
+    margin: 20px 10px 0px 0px;
+}
+
+.migration-header {
+    color: #444444;
+    font-family: adobe-clean, "Adobe Clean", SemiLight;
+    font-size: 25px;
+    clear: both;
+    min-height: 70px;
+}
+
+.warning-icon {
+    background: transparent url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNjUgNTciIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDY1IDU3OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGw6I0ZCMDAxNzt9PC9zdHlsZT48dGl0bGU+SVBNIEN1cnJlbnQgUGxhbiBSZXRpcmVkIEFsZXJ0IEljb248L3RpdGxlPjxnIGlkPSJMYXllcl8yIj48ZyBpZD0iTGF5ZXJfMS0yIj48cGF0aCBjbGFzcz0ic3QwIiBkPSJNNjIuNyw1Ni42SDIuMmMtMS4xLDAtMi0wLjktMi0yYzAtMC40LDAuMS0wLjcsMC4zLTFMMzAuOCwxLjJjMC41LTEsMS44LTEuMywyLjctMC44YzAuMywwLjIsMC42LDAuNCwwLjgsMC44bDMwLjIsNTIuNGMwLjYsMSwwLjIsMi4yLTAuNywyLjdDNjMuNCw1Ni41LDYzLjEsNTYuNiw2Mi43LDU2LjZ6IE01LjcsNTIuNmg1My41TDMyLjUsNi4yTDUuNyw1Mi42eiIvPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0zMi41LDM4LjZjLTEuMSwwLTItMC45LTItMlYyMi4xYzAtMS4xLDAuOS0yLDItMmMxLjEsMCwyLDAuOSwyLDJ2MTQuNUMzNC41LDM3LjcsMzMuNiwzOC42LDMyLjUsMzguNkwzMi41LDM4LjZ6Ii8+PGNpcmNsZSBjbGFzcz0ic3QwIiBjeD0iMzIuNSIgY3k9IjQ1LjQiIHI9IjMiLz48L2c+PC9nPjwvc3ZnPg==) left no-repeat;
+    height: 53px;
+    width: 10%;
+    float: left;
+    display: inline-block;
+    margin-top: 9px;
+}
+
+.header-warn-msg {
+    font-size: 33px;
+    display: inline-block;
+    margin-left: 15px;
+    width: 85%;
+    line-height: 1;
+}
+
+.header-msg {
+    font-size: 33px;
+    display: inline-block;
+    width: 85%;
+    line-height: 1;
+}
+
+.modal-dialog {
+    height: 600px;
+    width: 725px;
+    border-radius: 4px;
+    margin-top: 80px;
+}
+
+.modal-body {
+    padding: 1px 25px 20px;
+}
+
+.modal-content {
+    padding: 1px 20px 20px 20px;
+    border: none;
+    border-radius: 3px;
+    box-shadow: none;
+}
+
+.migration-action {
+    display: block;
+    background-color: #efefef;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+.faq-content {
+    color: #444444;
+    font-family: adobe-clean, "Adobe Clean", Regular;
+    font-size: 14px;
+    margin: 20px 0 0 0;
+}
+
+.migration-action-content {
+    color: #444444;
+    font-family: adobe-clean, "Adobe Clean", Regular;
+    font-size: 13px;
+    padding: 18px 30px 18px 30px;
+}
+
+.billing-detail {
+    color: #95989a;
+    font-size: 14px;
+    font-family: adobe-clean, "Adobe Clean";
+    font-style: italic;
+    margin-top: 25px;
+    margin-right: 10px;
+}
+
+.rounded-btn {
+    background: #1e76e3;
+    padding: 4px 30px 4px 30px;
+    color: #ffffff;
+    border-radius: 17px;
+    margin: 22px auto 25px auto;
+    display: table;
+    font-size: 13px;
+    font-family: adobe-clean, "Adobe Clean", Bold;
+}
+
+.rounded-inline-btn {
+    background: #1e76e3;
+    padding: 7px 25px 7px 25px;
+    color: #ffffff;
+    border-radius: 17px;
+    margin: 25px 0px 25px 30px;
+    display: inline;
+    font-size: 13px;
+    font-family: adobe-clean, "Adobe Clean", Bold;
+    border: solid 1px #1e76e3;
+}
+
+.rounded-primary-inline-btn {
+    background: none;
+    padding: 7px 25px 7px 25px;
+    color: #707070;
+    border-radius: 17px;
+    margin: 25px 0px 25px 30px;
+    display: inline;
+    font-size: 13px;
+    font-family: adobe-clean, "Adobe Clean", Bold;
+    border: solid 1px #707070;
+}
+
+.download-options {
+    margin: 25px 25px 25px 25px;
+}
+
+.rounded-btn a {
+    color:#ffffff !important;
+}
+
+.rounded-inline-btn a {
+    color:#ffffff !important;
+}
+
+.rounded-primary-inline-btn a {
+    color:#444444 !important;
+}

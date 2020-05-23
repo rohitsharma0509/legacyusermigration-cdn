@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Bienvenue sur votre compte gratuit",
+  "purchaseModalHeader" : "Informations importantes concernant votre abonnement Adobe Sign",
+  "purchaseMsg" : "Dans le cadre d'un effort continu d'optimisation de nos systèmes, Adobe ne proposera plus votre formule d'abonnement actuelle. Pour continuer à bénéficier des avantages payants d'Adobe Sign, veuillez vous abonner à la nouvelle formule Adobe Sign pour petites entreprises avec la même adresse électronique.",
+  "regularPriceMsg" : "Achetez un abonnement annuel à {0}/licence/an, {1} †.",
+  "promotionalPriceMsg" : "Profitez d'un prix promotionnel pour la première année de {0}/licence/an, {1} †.",
+  "buyNowBtnText" : "Acheter maintenant",
+  "faqContent" : "Lisez notre <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">FAQ</a> pour en savoir plus.",
+  "migrationActionMsg" : "Si vous décidez de ne pas vous abonner, mais souhaitez conserver l'accès à vos fichiers existants, votre abonnement Équipe sera rétrogradé à un abonnement gratuit. Un abonnement gratuit inclut la possibilité d'envoyer deux documents tous les 30 jours (sur une base continue), mais ne vous permet plus l'utilisation des fonctions d'administration de l'équipe. Pour utiliser un compte gratuit, les administrateurs et les utilisateurs doivent <a href=\"{0}\">se connecter avec un Adobe ID existant ou créer un Adobe ID</a> en utilisant la même adresse e-mail que le compte Adobe Sign actuel.",
+  "billingMsg1" : "† Engagement annuel obligatoire.",
+  "billingMsg2" : "† Le tarif standard est actuellement de {0}/licence/an, {1}.",
+  "billingMsg3" : "Le tarif promotionnel est valable uniquement pour la première année. À partir de la deuxième année, vous serez facturé au tarif actuel en vigueur. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Voir les conditions générales d'utilisation</a>",
+
+  "downloadCsvModalHeader" : "Télécharger la liste des utilisateurs du compte",
+  "downloadCsvMsg1" : "Pour vous assurer que votre équipe ne perd pas l'accès à Adobe Sign, vous devez réinviter les utilisateurs en utilisant la nouvelle Admin Console de gestion des utilisateurs. Pour vous simplifier la tâche, vous pouvez exporter votre liste d'utilisateurs actuelle au format CSV importable avant de valider.",
+  "downloadCsvMsg2" : "Nombre actuel de licences : ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Télécharger et continuer</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Continuer sans télécharger</a>",
+
+  "adobeIdModalHeader" : "Informations importantes concernant votre abonnement Adobe Sign",
+  "createAdobeIdMsg" : "Une modification des abonnements Adobe Sign à venir peut vous affecter. Pour garantir une transition transparente, connectez-vous avec votre Adobe ID existant ou créez un Adobe ID en utilisant la même adresse électronique que pour votre compte Adobe Sign actuel.",
+  "contactAdminMsg" : "Pour toute question, veuillez contacter l'administrateur de votre compte.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Prise en main</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Votre formule Adobe Sign abonnement Équipe a expiré et votre organisation n'a pas renouvelé son abonnement. Pour conserver l'accès à vos fichiers existants, vous pouvez utiliser un compte gratuit Adobe Sign, qui vous permet d'envoyer deux documents à signer gratuitement tous les 30 jours. Pour utiliser votre compte gratuit, connectez-vous avec votre Adobe ID existant ou créez un Adobe ID en utilisant la même adresse électronique que pour votre compte Adobe Sign actuel.",
+  "includingTax" : "taxes incluses",
+  "excludingTax" : "Taxes exclues"
+}

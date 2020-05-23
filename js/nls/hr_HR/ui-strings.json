@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Dobro došli u svoj besplatni račun",
+  "purchaseModalHeader" : "Važne informacije o vašoj pretplati za Adobe Sign",
+  "purchaseMsg" : "Zbog neprekidnih nastojanja da optimiziramo svoje sustave, Adobe više neće nuditi pretplatu koju trenutačno upotrebljavate. Kako biste nastavili uživati u prednostima koje nudi plaćena verzija servisa Adobe Sign, nabavite novu pretplatu za Adobe Sign za male tvrtke putem iste adrese e-pošte koju trenutačno upotrebljavate.",
+  "regularPriceMsg" : "Nabavite godišnju pretplatu po iznosu od {0} po licenci, po godini, {1} †",
+  "promotionalPriceMsg" : "Uživajte u promotivnoj cijeni tijekom prve godine u iznosu od {0} po licenci, po godini, {1} †.",
+  "buyNowBtnText" : "Kupite odmah",
+  "faqContent" : "Dodatne informacije potražite u <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">najčešćim pitanjima</a>.",
+  "migrationActionMsg" : "Ako se odlučite ne pretplatiti, ali želite zadržati pristup postojećim datotekama, vaš će se tim prebaciti na besplatnu pretplatu. Besplatna pretplata uključuje mogućnost slanja dva dokumenta svakih 30 dana (kontinuirano), ali više nećete moći upotrebljavati timske administrativne značajke. Kako biste upotrijebili besplatni račun, administratori i korisnici moraju se <a href=\"{0}\">prijaviti s postojećim Adobe ID profilom ili stvoriti Adobe ID</a> upotrebom iste adrese e-pošte koju upotrebljavaju za postojeći račun za Adobe Sign.",
+  "billingMsg1" : "† Potrebna je godišnja obaveza.",
+  "billingMsg2" : "† Standardna kataloška cijena trenutačno iznosi {0} po licenci, po godini, {1}.",
+  "billingMsg3" : "Promotivna cijena vrijedi samo tijekom prve godine. U 2. godini toga naplatit će vam se iznos po trenutačnoj kataloškoj cijeni <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Pogledajte uvjete i odredbe</a>",
+
+  "downloadCsvModalHeader" : "Preuzmi popis korisnika računa",
+  "downloadCsvMsg1" : "Kako vaš tim ne bi izgubio pristup servisu Adobe Sign, morat ćete ponovo poslati pozivnicu korisnicima putem nove administratorske konzole za upravljanje korisnicima. Postupak možete pojednostaviti tako da popis trenutačnih korisnika izvezete u CSV formatu prije no što nastavite s odjavom.",
+  "downloadCsvMsg2" : "Trenutačni broj licenci: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Preuzmi i nastavi</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Nastavi bez preuzimanja</a>",
+
+  "adobeIdModalHeader" : "Važne informacije o vašoj pretplati za Adobe Sign",
+  "createAdobeIdMsg" : "Nadolazeća promjena pretplate na Adobe Sign mogla bi utjecati na vas. Kako biste osigurali besprijekoran prijelaz, prijavite se putem postojećeg Adobe ID profila ili izradite Adobe ID upotrebom iste adrese e-pošte koju trenutačno upotrebljavate za svoj račun za Adobe Sign.",
+  "contactAdminMsg" : "Ako imate pitanja, obratite se administratoru računa.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Započni</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Istekla je vaša pretplata za Adobe Sign za timove, a vaša organizacija nije obnovila pretplatu. Kako biste zadržali pristup postojećim datotekama, možete upotrijebiti besplatni račun za Adobe Sign koji vam omogućuje da svakih 30 dana na potpis besplatno pošaljete dva dokumenta. Kako biste upotrijebili svoj besplatni račun, prijavite se putem postojećeg Adobe ID profila ili izradite Adobe ID upotrebom iste adrese e-pošte koju trenutačno upotrebljavate za svoj račun za Adobe Sign.",
+  "includingTax" : "s porezom",
+  "excludingTax" : "bez poreza"
+}

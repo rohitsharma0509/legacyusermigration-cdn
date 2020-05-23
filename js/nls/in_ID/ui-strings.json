@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Selamat datang di akun gratis Anda",
+  "purchaseModalHeader" : "Informasi penting mengenai langganan Adobe Sign Anda",
+  "purchaseMsg" : "Sebagai bagian dari upaya berkelanjutan untuk mengoptimalkan sistem kami, Adobe tidak akan lagi menawarkan paket langganan saat ini. Untuk melanjutkan menikmati manfaat berbayar Adobe Sign, silakan berlangganan Adobe Sign baru untuk paket Bisnis Kecil menggunakan alamat email yang sama.",
+  "regularPriceMsg" : "Beli langganan tahunan seharga {0}/lisensi/tahun, {1} †",
+  "promotionalPriceMsg" : "Nikmati harga promosi untuk tahun pertama senilai {0}/lisensi/tahun, {1} †.",
+  "buyNowBtnText" : "Beli Sekarang",
+  "faqContent" : "Harap baca <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">FAQ</a> kami untuk informasi tambahan.",
+  "migrationActionMsg" : "Jika Anda memutuskan tidak berlangganan, tetapi ingin mendapatkan akses ke file yang sudah ada, langganan tim akan diturunkan ke langganan gratis. Langganan gratis meliputi kemampuan untuk mengirim dua dokumen setiap 30 hari (dan terus berjalan), tetapi tidak akan lagi memungkinkan penggunaan fitur administratif tim. Untuk menggunakan akun gratis, admin dan pengguna harus <a href=\"{0}\">login dengan Adobe ID yang sudah ada atau membuat Adobe ID</a> menggunakan alamat email yang sama dengan akun Adobe Sign saat ini.",
+  "billingMsg1" : "† Komitmen tahunan dibutuhkan.",
+  "billingMsg2" : "† Harga daftar standar saat ini {0}/lisensi/tahun, {1}.",
+  "billingMsg3" : "Harga promosi hanya valid untuk tahun pertama. Mulai Tahun ke-2, Anda akan dikenakan tagihan harga daftar pada saat itu. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Lihat Syarat dan Ketentuan</a>",
+
+  "downloadCsvModalHeader" : "Unduh daftar pengguna akun",
+  "downloadCsvMsg1" : "Untuk memastikan tim tidak kehilangan akses ke Adobe Sign, Anda perlu mengundang kembali pengguna menggunakan Konsol Admin manajemen pengguna baru. Untuk membantu menyederhanakan aktivitas ini, Anda dapat mengekspor daftar pengguna saat ini dalam format CSV yang dapat diimpor sebelum melanjutkan ke pembayaran.",
+  "downloadCsvMsg2" : "Jumlah lisensi saat ini: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Unduh dan Lanjutkan</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Lanjutkan tanpa Mengunduh</a>",
+
+  "adobeIdModalHeader" : "Informasi penting mengenai langganan Adobe Sign Anda",
+  "createAdobeIdMsg" : "Perubahan langganan Adobe Sign yang akan datang mungkin berpengaruh pada Anda. Untuk memastikan kelancaran transisi, login dengan Adobe ID yang sudah ada, atau buat Adobe ID menggunakan alamat email yang sama dengan akun Adobe Sign Anda saat ini.",
+  "contactAdminMsg" : "Silakan hubungi administrator akun jika Anda memiliki pertanyaan.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Memulai</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Adobe Sign Anda untuk paket Tim sudah kedaluwarsa, dan organisasi belum memperbarui langganan. Untuk mendapatkan akses ke file yang sudah ada, Anda dapat menggunakan akun Adobe Sign gratis, yang memungkinkan Anda mengirim dua dokumen untuk ditandatangani gratis setiap 30 hari dan terus berjalan. Untuk menggunakan akun gratis, silakan login dengan Adobe ID yang sudah ada, atau buat Adobe ID menggunakan alamat email yang sama dengan akun Adobe Sign saat ini.",
+  "includingTax" : "sudah termasuk pajak",
+  "excludingTax" : "belum termasuk pajak"
+}

@@ -1,0 +1,19 @@
+{
+  "presets": [
+    ["es2015", {"modules": false} ], "react"
+  ],
+  "plugins": [
+      ["transform-es2015-classes", {"loose": true}],
+      "transform-es3-property-literals",
+      "transform-es3-member-expression-literals"
+   ],
+  "env": {
+    "coverage": {
+      "plugins": [
+        [
+          "istanbul"
+        ]
+      ]
+    }
+  }
+}

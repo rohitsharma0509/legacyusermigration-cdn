@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Velkommen til gratiskontoen din",
+  "purchaseModalHeader" : "Viktig informasjon om Adobe Sign-abonnement",
+  "purchaseMsg" : "Som en del av et løpende arbeid med å optimalisere systemene våre vil ikke Adobe lenger tilby ditt nåværende abonnement. Hvis du fortsatt ønsker de betalte fordelene ved Adobe Sign, må du abonnere på den nye Adobe Sign for Small Business-planen med samme e-postadresse.",
+  "regularPriceMsg" : "Kjøp et årsabonnement til {0}/lisens/år, {1} †",
+  "promotionalPriceMsg" : "Dra nytte av en kampanjepris for det første året, på {0}/lisens/år, {1} †.",
+  "buyNowBtnText" : "Kjøp nå",
+  "faqContent" : "Les våre <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">vanlige spørsmål</a> for å finne mer informasjon.",
+  "migrationActionMsg" : "Hvis du bestemmer deg for ikke å abonnere, men vil beholde tilgangen til eksisterende filer, blir Team-abonnementet nedgradert til et gratisabonnement. Et gratisabonnement inkluderer mulighet til å sende to dokumenter hver 30. dag (på rullerende basis), men vil ikke lenger tillate bruk av administrative Team-funksjoner. For å bruke en gratiskonto må administratorer og brukere <a href=\"{0}\">logge på med en eksisterende Adobe ID eller opprette en Adobe ID</a> med samme e-postadresse som nåværende Adobe Sign-konto.",
+  "billingMsg1" : "† Årlig forpliktelse kreves.",
+  "billingMsg2" : "† Standard listepris er i øyeblikket {0}/lisens/år, {1}.",
+  "billingMsg3" : "Kampanjeprisen er bare gyldig det første året. Fra og med år 2 blir du fakturert med gjeldende listepris. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Se vilkårene og betingelsene</a>",
+
+  "downloadCsvModalHeader" : "Last ned kontobrukerliste",
+  "downloadCsvMsg1" : "For å sikre at teamet ikke mister tilgang til Adobe Sign må du invitere brukere på nytt via den nye Admin Console for brukerbehandling. Som hjelp til å forenkle denne aktiviteten kan du eksportere gjeldende brukerliste til et importerbart CSV-format før du går videre til utsjekking.",
+  "downloadCsvMsg2" : "Nåværende lisensantall: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Last ned og fortsett</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Fortsett uten nedlasting</a>",
+
+  "adobeIdModalHeader" : "Viktig informasjon om Adobe Sign-abonnement",
+  "createAdobeIdMsg" : "En kommende endring i Adobe Sign-abonnementet kan berøre deg. For å sikre at denne overgangen blir sømløs, logger du på med din eksisterende Adobe ID eller oppretter en Adobe ID med samme e-postadresse som for gjeldende Adobe Sign-konto.",
+  "contactAdminMsg" : "Kontakt din kundeansvarlige hvis du har spørsmål.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Kom i gang</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Adobe Sign for Teams-abonnementet ditt er utløpt, og organisasjonen har ikke fornyet abonnementet. For å beholde tilgang til de eksisterende filene dine kan du bruke en gratis Adobe Sign-konto, som lar deg sende to dokumenter til signering gratis i hver periode på 30 dager, på et rullerende grunnlag. Hvis du skal bruke gratiskontoen, logger du på med din eksisterende Adobe ID eller oppretter en Adobe ID med samme e-postadresse som din nåværende Adobe Sign-konto.",
+  "includingTax" : "inklusive mva",
+  "excludingTax" : "eksklusive mva"
+}

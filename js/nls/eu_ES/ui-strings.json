@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Ongi etorri doako kontura",
+  "purchaseModalHeader" : "Adobe Sign harpidetzari buruzko informazio garrantzitsua",
+  "purchaseMsg" : "Gogor lan egiten ari gara gure sistemak hobetzeko eta, horregatik, Adobe-k ez du aurrerantzean eskainiko unean duzun harpidetza-plana. Adobe Sign-en ordainpeko abantailez gozatzen jarraitzeko, harpidetu enpresa txikietarako Adobe Sign-eko planera betiko helbide elektronikoa erabiliz.",
+  "regularPriceMsg" : "Erosi urteko harpidetza bat eta ordaindu {0} lizentziako eta urteko; {1} †",
+  "promotionalPriceMsg" : "Gozatu promozio-prezio batez lehen urtean zehar eta ordaindu {0} lizentziako eta urteko, {1} †.",
+  "buyNowBtnText" : "Erosi orain",
+  "faqContent" : "Informazio gehiago lortzeko, irakurri <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Maiz egiten diren galderak</a>.",
+  "migrationActionMsg" : "Harpidetu nahi ez baduzu, baina lehendik dituzun fitxategietarako sarbidea izaten jarraitu nahi baduzu, doako bertsio batera aldatuko dugu zure taldearen harpidetza. Doako harpidetza batek 30 egunean behin bi dokumentu bidaltzeko aukera ematen dizu (aldi oro), baina ezingo dituzu erabili taldeari dagozkion eginbide administratiboak. Doako kontu bat erabiltzeko, erabiltzaile eta administratzaileek <a href=\"{0}\">Adobe ID batekin hasi behar dute saioa edo Adobe ID bat sortu behar dute</a> uneko Adobe Sign kontuaren helbide elektroniko bera erabiliz.",
+  "billingMsg1" : "† Urteroko konpromisoa behar da.",
+  "billingMsg2" : "† Prezio-zerrenda estandarrak {0} lizentziako eta urteko balio du, {1}.",
+  "billingMsg3" : "Lehenengo urtean soilik aplikatuko da promozio-prezioa. Bigarren urtetik aurrera, uneko prezio-zerrendaren arabera kobratuko dizugu. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Irakurri zehaztapenak eta baldintzak</a>",
+
+  "downloadCsvModalHeader" : "Deskargatu kontuaren erabiltzaile-zerrenda",
+  "downloadCsvMsg1" : "Taldeak Adobe Sign-erako sarbidea galtzen ez duela ziurtatzeko, erabiltzaileak berriro gonbidatu beharko dituzu erabiltzaileak kudeatzeko Admin Console berria erabiliz. Eragiketa errazagoa izan dadin, uneko erabiltzaile-zerrenda esporta dezakezu inporta daitekeen CSV formatu batean gonbidapenak bidaltzen hasi baino lehen.",
+  "downloadCsvMsg2" : "Uneko lizentzia kopurua: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Deskargatu eta jarraitu</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Jarraitu deskargatu gabe</a>",
+
+  "adobeIdModalHeader" : "Adobe Sign harpidetzari buruzko informazio garrantzitsua",
+  "createAdobeIdMsg" : "Adobe Sign-eko harpidetzan egingo den aldaketa batek eragin diezazuke. Trantsizio erraza izan dezazun, hasi saioa Adobe IDarekin edo sortu Adobe ID bat uneko Adobe Sign kontuaren helbide elektroniko bera erabiliz.",
+  "contactAdminMsg" : "Galderarik baduzu jarri harremanetan kontuaren administratzailearekin.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Hasi erabiltzen</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Taldeetarako Adobe Sign plana iraungi egin da eta zure erakundeak ez du berritu harpidetza. Lehendik dituzun fitxategietarako sarbidea mantentzeko, doako Adobe Sign kontu bat erabil dezakezu, zeinak 30 egunean behin bi dokumentu bidaltzeko aukera ematen dizu (aldi oro). Doako kontua erabiltzeko, hasi saioa zure Adobe IDarekin edo sortu Adobe ID bat Adobe Sign kontuaren helbide elektroniko bera erabiliz.",
+  "includingTax" : "zergak barne",
+  "excludingTax" : "zergak ez daude gehituta"
+}

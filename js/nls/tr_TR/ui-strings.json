@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Ücretsiz hesabınıza hoş geldiniz",
+  "purchaseModalHeader" : "Adobe Sign aboneliğiniz hakkında önemli bilgiler",
+  "purchaseMsg" : "Sistemlerimizi optimize etmeye yönelik süregelen çabaların bir parçası olarak Adobe, mevcut abonelik planınızı artık sunmayacak. Adobe Sign'ın ücretli avantajlarından yararlanmaya devam etmek için lütfen aynı e-posta adresinizi kullanarak yeni Küçük işletmeler için Adobe Sign planına abone olun.",
+  "regularPriceMsg" : "{1}, {0}/lisans/yıl karşılığında yıllık abonelik satın alın †",
+  "promotionalPriceMsg" : "{1}, ilk yıl için geçerli {0}/lisans/yıl, promosyon fiyatının keyfini çıkarın †.",
+  "buyNowBtnText" : "Şimdi Satın Al",
+  "faqContent" : "Daha fazla bilgi almak için lütfen <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">SSS sayfamızı</a> okuyun.",
+  "migrationActionMsg" : "Abone olmak istemiyor ancak mevcut dosyalarınıza erişmeye devam etmek istiyorsanız ekip aboneliğiniz ücretsiz aboneliğe indirgenecektir. Ücretsiz abonelikte her 30 günde bir iki adet belge gönderme (devamlı olarak) imkanı sunulur ancak artık ekip yönetimi özelliklerinin kullanılmasına izin verilmez. Yöneticilerin ve kullanıcıların ücretsiz bir hesap kullanabilmesi için <a href=\"{0}\">mevcut bir Adobe ID ile giriş yapması veya mevcut Adobe Sign hesabıyla aynı e-posta adresini kullanarak bir Adobe ID oluşturması</a> gerekir.",
+  "billingMsg1" : "† Yıllık taahhüt gereklidir.",
+  "billingMsg2" : "† {1}, standart liste fiyatı şu anda şu şekildedir: {0}/lisans/yıl.",
+  "billingMsg3" : "Promosyon fiyatları yalnızca ilk yıl için geçerlidir. 2. yılın ardından o zamanki güncel liste fiyatı üzerinden faturalandırılırsınız. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Şartlar ve Koşullara göz atın</a>",
+
+  "downloadCsvModalHeader" : "Hesap kullanıcı listesini indirin",
+  "downloadCsvMsg1" : "Ekibinizin Adobe Sign erişimini kaybetmemesi için yeni kullanıcı yönetimi Admin Console'u kullanarak kullanıcıları yeniden davet etmeniz gerekir. Bu etkinliği basitleştirmek için ödeme işlemine geçmeden önce geçerli kullanıcı listenizi içe aktarılabilir CSV formatında dışa aktarabilirsiniz.",
+  "downloadCsvMsg2" : "Mevcut lisans sayısı: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">İndir ve Devam Et</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">İndirmeden Devam Et</a>",
+
+  "adobeIdModalHeader" : "Adobe Sign aboneliğiniz hakkında önemli bilgiler",
+  "createAdobeIdMsg" : "Yakında gerçekleşecek Adobe Sign abonelik değişikliği sizi etkileyebilir. Bu geçişin sorunsuz sağlanması için lütfen mevcut Adobe ID'nizle oturum açın veya mevcut Adobe Sign hesabınızla aynı e-posta adresini kullanarak bir Adobe ID oluşturun.",
+  "contactAdminMsg" : "Herhangi bir sorunuz varsa lütfen hesap yöneticinizle iletişime geçin.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Başlayın</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Ekipler için Adobe Sign planınızın süresi doldu ve kuruluşunuz aboneliği yenilemedi. Mevcut dosyalarınıza erişmeye devam etmek için ücretsiz bir Adobe Sign hesabı kullanabilirsiniz. Bu hesap, her 30 günde bir devamlı olarak iki belgeyi imza için ücretsiz olarak göndermenizi sağlar. Ücretsiz hesabınızı kullanmak için lütfen mevcut Adobe ID'niz ile oturum açın veya geçerli Adobe Sign hesabınızla aynı e-posta adresini kullanarak bir Adobe ID oluşturun.",
+  "includingTax" : "Vergi dahil",
+  "excludingTax" : "vergi hariç"
+}

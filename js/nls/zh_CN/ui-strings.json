@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "欢迎使用免费帐户",
+  "purchaseModalHeader" : "有关 Adobe Sign 订阅的重要信息",
+  "purchaseMsg" : "Adobe 不断致力于系统优化，因此不再提供您当前的订阅计划。要继续享受 Adobe Sign 的付费权益，请使用相同的电子邮件地址订阅适用于小企业的全新 Adobe Sign 计划。",
+  "regularPriceMsg" : "购买价格为 {0}/许可证/年，{1} 的订阅†",
+  "promotionalPriceMsg" : "首年享有促销价 {0}/许可证/年，{1} †。",
+  "buyNowBtnText" : "立即购买",
+  "faqContent" : "请阅读我们的<a href=\"{0}\" id=\"faq-link\" target=\"_blank\">常见问题解答</a>以获取更多信息。",
+  "migrationActionMsg" : "如果您决定不订阅，但希望保留现有文件的访问权限，则团队订阅将降级为免费订阅。免费订阅包括每 30 天固定发送两个文档的功能，但将不再允许使用团队管理功能。要使用免费帐户，管理员和用户必须<a href=\"{0}\">使用现有的 Adobe ID 登录或创建 Adobe ID</a>（使用与当前 Adobe Sign 帐户相同的电子邮件地址）。",
+  "billingMsg1" : "† 需签订一年期合同。",
+  "billingMsg2" : "† 标准标价目前为 {0}/许可证/年，{1}。",
+  "billingMsg3" : "促销价格仅在第一年有效。从第 2 年开始，将按当时的定价计费。<a href=\"{0}\" id=\"faq-link\" target=\"_blank\">参阅条款和条件</a>",
+
+  "downloadCsvModalHeader" : "下载帐户用户列表",
+  "downloadCsvMsg1" : "为了确保您的团队不会丢失 Adobe Sign 的访问权限，您需要使用新的用户管理 Admin Console 重新邀请用户。为帮助简化此操作，您可以在结算之前，以可导入的 CSV 格式导出当前用户列表。",
+  "downloadCsvMsg2" : "当前许可证计数: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">下载并继续</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">继续但不下载</a>",
+
+  "adobeIdModalHeader" : "有关 Adobe Sign 订阅的重要信息",
+  "createAdobeIdMsg" : "即将进行的一项有关 Adobe Sign 订阅的变更可能会给您造成影响。为确保顺利过渡，请使用现有的 Adobe ID 登录，或使用与您当前 Adobe Sign 帐户相同的电子邮件地址创建一个 Adobe ID。",
+  "contactAdminMsg" : "如果您有任何疑问，请联系您的帐户管理员。",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">开始</a>",
+  "createAdobeIdMsgAfterDowngraded" : "您的团队版 Adobe Sign 订阅计划已过期，但贵组织尚未续订。要保留对现有文件的访问，您可以使用免费的 Adobe Sign 帐户，该帐户允许您每 30 天免费发送两个文档进行签名。要使用免费帐户，请以现有的 Adobe ID 登录，或者使用与您当前 Adobe Sign 帐户相同的电子邮件地址创建一个 Adobe ID。",
+  "includingTax" : "含税",
+  "excludingTax" : "不含税"
+}

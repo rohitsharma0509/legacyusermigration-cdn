@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Velkomin(n) á nýja reikninginn þinn",
+  "purchaseModalHeader" : "Mikilvægar upplýsingar um Adobe Sign áskriftina þína",
+  "purchaseMsg" : "Sem hluti af viðvarandi átaki okkar til að fínstilla kerfin okkar mun Adobe ekki lengur bjóða upp á núverandi áskriftarleið þína. Til að halda áfram að njóta þeirra kosta Adobe Sign sem greitt er fyrir skaltu fá þér Small Business áskrift að Adobe Sign og nota til þess sama netfang.",
+  "regularPriceMsg" : "Kauptu ársáskrift sem kostar {0}/leyfi/ári, {1} †",
+  "promotionalPriceMsg" : "Greiddu kynningarverð fyrsta árið sem nemur {0}/leyfi/ári, {1} †.",
+  "buyNowBtnText" : "Kaupa núna",
+  "faqContent" : "Vinsamlegast lestu <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">algengar spurningar og svör</a> til að fá frekari upplýsingar.",
+  "migrationActionMsg" : "Ef þú ákveður að fá ekki áskrift en vilt hafa áfram aðgang að skránum þínum verður teymisáskriftin þín færð niður í ókeypis áskrift. Með ókeypis áskrift geturðu sent tvö skjöl á hverju 30 daga tímabili, en ekki lengur notað stjórnunareiginleika fyrir teymi. <a href=\"{0}\">skráðu þig inn með núverandi Adobe ID þínu eða búðu til Adobe ID</a> með sama netfang og núverandi Adobe Sign-reikningurinn þinn.",
+  "billingMsg1" : "† Árlegrar skuldbindingar krafist.",
+  "billingMsg2" : "† Staðlað listaverð er núna {0}/leyfi/ári, {1}.",
+  "billingMsg3" : "Kynningarverðið gildir aðeins fyrsta árið. Að því loknu greiðirðu samkvæmt þágildandi listaverði. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Sjá ákvæði og skilmála</a>",
+
+  "downloadCsvModalHeader" : "Sækja notendalista reiknings",
+  "downloadCsvMsg1" : "Til að tryggja að teymið þitt missi ekki aðgang að Adobe Sign þarftu að senda aftur boð til notenda með nýju Admin Console fyrir notendaumsjón. Til að einfalda þetta geturðu flutt núverandi notendalista þinn út á innflytjanlegu CSV-sniði áður en þú ferð á greiðslusíðuna.",
+  "downloadCsvMsg2" : "Núverandi fjöldi leyfa: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Sækja og halda áfram</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Halda áfram án niðurhals</a>",
+
+  "adobeIdModalHeader" : "Mikilvægar upplýsingar um Adobe Sign áskriftina þína",
+  "createAdobeIdMsg" : "Væntanlega breyting á Adobe Sign áskrift kann að hafa áhrif á þig. Til að tryggja að þessi breyting gangi snurðulaust fyrir sig skaltu skrá þig inn með núverandi Adobe ID þínu eða búa til Adobe ID með sama netfang og núverandi Adobe Sign-reikningurinn þinn.",
+  "contactAdminMsg" : "Ef þú hefur einhverjar spurningar skaltu hafa samband við reikningsstjórann þinn.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Hefjast handa</a>",
+  "createAdobeIdMsgAfterDowngraded" : "Adobe Sign for Teams áskriftin þín er útrunnin, og fyrirtækið þitt hefur ekki endurnýjað áskriftina. Til að halda aðgangi að skránum þínum geturðu notað ókeypis Adobe Sign reikning, sem þú getur notað til að senda tvö skjöl til undirritunar án gjalds á hverju 30 daga tímabili. Til að nota ókeypis reikninginn þinn skaltu skrá þig inn með núverandi Adobe ID þínu eða búa til Adobe ID með sama netfang og núverandi Adobe Sign-reikningurinn þinn.",
+  "includingTax" : "með skatti",
+  "excludingTax" : "án skatts"
+}

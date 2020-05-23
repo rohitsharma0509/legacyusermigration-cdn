@@ -1,0 +1,27 @@
+{
+  "welcomeMsgForFreeAccount" : "Bem-vindo(a) à sua conta gratuita",
+  "purchaseModalHeader" : "Informações importantes sobre a sua subscrição do Adobe Sign",
+  "purchaseMsg" : "Como parte de um esforço contínuo para optimizar os nossos sistemas, a Adobe vai deixar de disponibilizar o seu plano de subscrição actual. Para continuar a desfrutar dos benefícios pagos do Adobe Sign, subscreva o novo plano de Adobe Sign para Pequenas Empresas utilizando o mesmo endereço de e-mail.",
+  "regularPriceMsg" : "Adquira uma subscrição anual por {0}/licença/ano, {1} †",
+  "promotionalPriceMsg" : "Desfrute de um preço promocional durante o primeiro ano de {0}/licença/ano, {1} †.",
+  "buyNowBtnText" : "Comprar agora",
+  "faqContent" : "Leia as nossas <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">perguntas frequentes</a> para obter informações adicionais.",
+  "migrationActionMsg" : "Se decidir não subscrever, mas quiser manter o acesso aos seus ficheiros existentes, a sua subscrição de equipa será reduzida para uma subscrição gratuita. Uma subscrição gratuita inclui a capacidade de enviar dois documentos a cada 30 dias (de uma forma contínua), mas impedirá a utilização de funcionalidades administrativas de equipa. Para utilizar uma conta gratuita, os administradores e utilizadores têm de <a href=\"{0}\">iniciar sessão com uma Adobe ID existente ou criar uma Adobe ID</a> utilizando o endereço de e-mail associado à conta Adobe Sign actual.",
+  "billingMsg1" : "† É necessário um compromisso anual.",
+  "billingMsg2" : "† Actualmente, o preço de tabela normal é de {0}/licença/ano, {1}.",
+  "billingMsg3" : "O preço promocional é válido apenas para o primeiro ano. A partir do 2.º ano ser-lhe-á cobrado o preço de tabela em vigor na altura. <a href=\"{0}\" id=\"faq-link\" target=\"_blank\">Ver os termos e condições</a>",
+
+  "downloadCsvModalHeader" : "Transferir lista de utilizadores da conta",
+  "downloadCsvMsg1" : "Para assegurar que a sua equipa não perde o acesso ao Adobe Sign, terá de voltar a convidar utilizadores através da nova Admin Console de gestão de utilizadores. Para ajudar a simplificar esta actividade, pode exportar a lista de utilizadores actuais num formato CSV importável antes de avançar para a saída.",
+  "downloadCsvMsg2" : "Contagem actual de licenças: ",
+  "downloadBtn" : "<a class=\"download-link\" href=\"{0}\">Transferir e continuar</a>",
+  "skipDownloadBtn" : "<a class=\"skip-download-link\" href=\"{0}\">Continuar sem transferir</a>",
+
+  "adobeIdModalHeader" : "Informações importantes sobre a sua subscrição do Adobe Sign",
+  "createAdobeIdMsg" : "É possível que seja afectado por uma alteração futura da subscrição do Adobe Sign. Para assegurar uma transição sem problemas, inicie sessão com a sua Adobe ID existente ou crie uma Adobe ID utilizando o endereço de e-mail associado à sua conta Adobe Sign actual.",
+  "contactAdminMsg" : "Se tiver alguma dúvida, contacte o administrador da conta.",
+  "getStartedBtn" : "<a class=\"create-adobe-id\" href=\"{0}\">Começar</a>",
+  "createAdobeIdMsgAfterDowngraded" : "O seu plano de Adobe Sign para Equipas expirou e a sua organização não renovou a subscrição. Para manter o acesso aos seus ficheiros existentes, pode utilizar uma conta Adobe Sign gratuita, que lhe permite enviar dois documentos para assinatura gratuitamente a cada 30 dias de uma forma contínua. Para utilizar a conta gratuita, inicie sessão com a sua Adobe ID existente ou crie uma Adobe ID utilizando o endereço de e-mail associado à sua conta Adobe Sign actual.",
+  "includingTax" : "imposto incluído",
+  "excludingTax" : "imposto não incluído"
+}
